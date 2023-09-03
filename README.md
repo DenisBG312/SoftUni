@@ -4,4 +4,5 @@ The folders in this repository contain my solutions in their homework system, wh
 ---
 **Test my solutions here:**
  - *[C# Basics](https://judge.softuni.org/Contests#!/List/ByCategory/245/CSharp-Basics)*
+ - 🔜 *[C# Fundamentals](https://judge.softuni.org/Contests#!/List/ByCategory/20/CSharp-Development)*
    <img src="https://softuni.foundation/wp-content/uploads/2017/08/SoftUni_Foundation_Logo_Oneline-1.png">
