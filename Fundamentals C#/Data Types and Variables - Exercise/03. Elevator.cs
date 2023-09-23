@@ -7,19 +7,9 @@ namespace _03._Elevator
             int n = int.Parse(Console.ReadLine());
             int p = int.Parse(Console.ReadLine());
 
-            int courses = n / p;
-            int remainder = n % p;
+            int courses = (int)Math.Ceiling((double)n / p);
 
-            if (remainder == 0)
-            {
-                Console.WriteLine(courses);
-            }
-            else
-            {
-                Console.WriteLine(courses + remainder / remainder);
-            }
-            
-
+            Console.WriteLine(courses);
         }
     }
 }
