@@ -7,6 +7,11 @@ namespace _03._Characters_in_Range
             char firstChar = char.Parse(Console.ReadLine());
             char secondChar = char.Parse(Console.ReadLine());
 
+            CharMethod(firstChar, secondChar);
+        }
+
+        private static void CharMethod(char firstChar, char secondChar)
+        {
             if ((char)firstChar < (char)secondChar)
             {
                 for (int i = firstChar + 1; i <= secondChar - 1; i++)
