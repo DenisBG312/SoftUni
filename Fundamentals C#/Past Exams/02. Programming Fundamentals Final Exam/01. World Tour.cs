@@ -1,4 +1,5 @@
 using System;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace _01._World_Tour
 {
@@ -11,7 +12,7 @@ namespace _01._World_Tour
 
             while ((input = Console.ReadLine()) != "Travel")
             {
-                string[] commands = input.Split(':');
+                string[] commands = input.Split(":", StringSplitOptions.RemoveEmptyEntries);
 
                 if (commands[0] == "Add Stop")
                 {
@@ -22,18 +23,20 @@ namespace _01._World_Tour
                     {
                         stops = stops.Insert(index, destination);
                     }
+
+
+                    Console.WriteLine(stops);
                 }
                 else if (commands[0] == "Remove Stop")
                 {
                     int startIndex = int.Parse(commands[1]);
                     int endIndex = int.Parse(commands[2]);
 
-                    if (IsValidIndex(startIndex, stops.Length) &&
-                        IsValidIndex(endIndex, stops.Length))
+                    if (startIndex >= 0 && endIndex < stops.Length)
                     {
-                        int countToRemove = endIndex - startIndex + 1;
-                        stops = stops.Substring(0, startIndex) + stops.Substring(endIndex + 1);
+                        stops = stops.Remove(startIndex, endIndex - startIndex + 1);
                     }
+                    Console.WriteLine(stops);
                 }
                 else if (commands[0] == "Switch")
                 {
@@ -41,13 +44,11 @@ namespace _01._World_Tour
                     string newString = commands[2];
 
                     stops = stops.Replace(oldString, newString);
+                    Console.WriteLine(stops);
                 }
-
-                Console.WriteLine(stops);
             }
 
-            Console.Write("Ready for world tour! Planned stops: ");
-            Console.Write(stops);
+            Console.WriteLine($"Ready for world tour! Planned stops: {stops}");
         }
 
         public static bool IsValidIndex(int index, int length)
