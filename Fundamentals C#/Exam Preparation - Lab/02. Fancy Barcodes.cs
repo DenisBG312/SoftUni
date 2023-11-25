@@ -10,7 +10,6 @@ namespace _02._Fancy_Barcodes
             
             int count = int.Parse(Console.ReadLine());
             string pattern = @"@#+(?<Barcode>[A-Z]{1,}[A-Za-z-0-9]{4,}[A-Z]{1,})@#+";
-            RegexOptions options = RegexOptions.Multiline;
 
             for (int i = 0; i < count; i++)
             {
