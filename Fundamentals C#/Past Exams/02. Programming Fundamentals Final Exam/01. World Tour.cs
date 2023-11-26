@@ -1,59 +1,71 @@
-using System;
-using static System.Net.Mime.MediaTypeNames;
+using System.Diagnostics;
 
-namespace _01._World_Tour
+namespace _01._World_Tour_
 {
     internal class Program
     {
+        static string stops;
         static void Main(string[] args)
         {
-            string stops = Console.ReadLine();
+            stops = Console.ReadLine();
             string input;
-
             while ((input = Console.ReadLine()) != "Travel")
             {
-                string[] commands = input.Split(":", StringSplitOptions.RemoveEmptyEntries);
+                string[] arguments = input.Split(":");
 
-                if (commands[0] == "Add Stop")
+                if (arguments[0] == "Add Stop")
                 {
-                    int index = int.Parse(commands[1]);
-                    string destination = commands[2];
-
-                    if (IsValidIndex(index, stops.Length))
-                    {
-                        stops = stops.Insert(index, destination);
-                    }
-
-
-                    Console.WriteLine(stops);
+                    AddStop(int.Parse(arguments[1]), arguments[2]);
                 }
-                else if (commands[0] == "Remove Stop")
+                else if (arguments[0] == "Remove Stop")
                 {
-                    int startIndex = int.Parse(commands[1]);
-                    int endIndex = int.Parse(commands[2]);
-
-                    if (startIndex >= 0 && endIndex < stops.Length)
-                    {
-                        stops = stops.Remove(startIndex, endIndex - startIndex + 1);
-                    }
-                    Console.WriteLine(stops);
+                    RemoveStop(int.Parse(arguments[1]), int.Parse(arguments[2]), input);
                 }
-                else if (commands[0] == "Switch")
+                else if (arguments[0] == "Switch")
                 {
-                    string oldString = commands[1];
-                    string newString = commands[2];
-
-                    stops = stops.Replace(oldString, newString);
-                    Console.WriteLine(stops);
+                    SwitchPlace(input, arguments[1], arguments[2]);
                 }
+
+                Console.WriteLine(stops);
             }
 
             Console.WriteLine($"Ready for world tour! Planned stops: {stops}");
         }
 
-        public static bool IsValidIndex(int index, int length)
+        private static void SwitchPlace(string input, string oldString, string newString)
         {
-            return index >= 0 && index < length;
+            if (IsStringValid(input, oldString))
+            {
+                stops = stops.Replace(oldString, newString);
+            }
+        }
+
+        private static bool IsStringValid(string input, string oldString)
+        {
+            bool isValid = stops.Contains(oldString);
+            return isValid;
+        }
+
+        private static void RemoveStop(int startIndex, int endIndex, string input)
+        {
+            if (IsValidIndex(startIndex, stops) && endIndex < stops.Length)
+            {
+                stops = stops.Remove(startIndex, endIndex - startIndex + 1);
+            }
+        }
+
+        private static void AddStop(int index, string input)
+        {
+            if (IsValidIndex(index, stops))
+            {
+                stops = stops.Insert(index, input);
+            }
+        }
+
+        private static bool IsValidIndex(int index, string input)
+        {
+            bool IsValid = index >= 0 && index < stops.Length;
+            return IsValid;
         }
     }
 }
