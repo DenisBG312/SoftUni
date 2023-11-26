@@ -1,25 +1,41 @@
-using System;
 using System.Text.RegularExpressions;
-using System.Linq;
 
-class Program
+namespace _02._Destination_Mapper_
 {
-    static void Main()
+    class Town
     {
-        string input = Console.ReadLine();
+        public string Name { get; set; }
 
-        string pattern = @"([=\/])([A-Z][a-zA-Z]{2,})\1";
-        Regex regex = new Regex(pattern);
+        public Town(string name)
+        {
+            Name = name;
+        }
 
-        MatchCollection matches = regex.Matches(input);
+        public override string ToString()
+        {
+            return Name;
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string input = Console.ReadLine();
+            string pattern = @"(=|\/)(?<Town>[A-Z][A-Za-z]{2,})\1";
 
-        var validDestinations = matches
-            .Select(match => match.Groups[2].Value)
-            .ToList();
+            List<Town> validTowns = new List<Town>();
 
-        int travelPoints = validDestinations.Sum(destination => destination.Length);
+            double travelPoints = 0;
+            foreach (Match town in Regex.Matches(input, pattern))
+            {
+                string name = town.Groups["Town"].Value;
+                Town validTown = new Town(name);
+                validTowns.Add(validTown);
+                travelPoints += name.Length;
+            }
 
-        Console.WriteLine($"Destinations: {string.Join(", ", validDestinations)}");
-        Console.WriteLine($"Travel Points: {travelPoints}");
+            Console.WriteLine($"Destinations: {string.Join(", ", validTowns)}");
+            Console.WriteLine($"Travel Points: {travelPoints}");
+        }
     }
 }
