@@ -7,14 +7,14 @@ namespace AnimalFeedingProgram
     class Plant
     {
         public string Name { get; set; }
-        public int Rarity { get; set; }
-        public List<int> Rating { get; set; }
+        public double Rarity { get; set; }
+        public List<double> Rating { get; set; }
 
-        public Plant(string name, int rarity)
+        public Plant(string name, double rarity)
         {
             Name = name;
             Rarity = rarity;
-            Rating = new List<int>();
+            Rating = new List<double>();
         }
 
         public override string ToString()
@@ -34,13 +34,7 @@ namespace AnimalFeedingProgram
             {
                 string[] inputs = Console.ReadLine().Split("<->");
                 string name = inputs[0];
-                int rarity;
-
-                if (!int.TryParse(inputs[1], out rarity))
-                {
-                    Console.WriteLine("error");
-                    continue;
-                }
+                double rarity = double.Parse(inputs[1]);
 
                 if (!plants.ContainsKey(name))
                 {
@@ -61,13 +55,7 @@ namespace AnimalFeedingProgram
                 {
                     string[] arguments = command[1].Split(" - ");
                     string name = arguments[0];
-                    int rating;
-
-                    if (!int.TryParse(arguments[1], out rating))
-                    {
-                        Console.WriteLine("error");
-                        continue;
-                    }
+                    double rating = double.Parse(arguments[1]);
 
                     if (!plants.ContainsKey(name))
                     {
@@ -81,13 +69,7 @@ namespace AnimalFeedingProgram
                 {
                     string[] arguments = command[1].Split(" - ");
                     string name = arguments[0];
-                    int newRarity;
-
-                    if (!int.TryParse(arguments[1], out newRarity))
-                    {
-                        Console.WriteLine("error");
-                        continue;
-                    }
+                    double newRarity = double.Parse(arguments[1]);
 
                     if (!plants.ContainsKey(name))
                     {
@@ -120,4 +102,3 @@ namespace AnimalFeedingProgram
         }
     }
 }
-
