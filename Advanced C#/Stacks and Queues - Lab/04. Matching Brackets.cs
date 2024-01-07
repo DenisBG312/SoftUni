@@ -13,6 +13,6 @@ for (int i = 0; i < expression.Length; i++)
     {
         int openingBracketIndex = stack.Pop();
 
-        Console.WriteLine(expression.Substring(openingBracketIndex, i - openingBracketIndex - -1));
+        Console.WriteLine(expression.Substring(openingBracketIndex, i - openingBracketIndex +1));
     }
 }
