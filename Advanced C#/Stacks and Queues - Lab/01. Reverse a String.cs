@@ -1,13 +1,23 @@
-string input = Console.ReadLine();
-
-Stack<char> chars = new Stack<char>();
-
-foreach (var character in input)
+namespace _01.ReverseString
 {
-    chars.Push(character);
-}
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string input = Console.ReadLine();
 
-while (chars.Count > 0)
-{
-    Console.Write(chars.Pop());
+            Stack<char> stack = new Stack<char>();
+
+            for (int i = 0; i < input.Length; i++)
+            {
+                char currChar = input[i];
+                stack.Push(currChar);
+            }
+
+            while (stack.Count != 0)
+            {
+                Console.Write(stack.Pop());
+            }
+        }
+    }
 }
