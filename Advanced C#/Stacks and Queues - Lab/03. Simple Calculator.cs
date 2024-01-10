@@ -9,7 +9,7 @@ namespace _03.SimpleCalculator
 
             int result = int.Parse(stack.Pop());
 
-            while (stack.Count > 1)
+            while (stack.Count != 0)
             {
                 string operation = stack.Pop();
                 int num2 = int.Parse(stack.Pop());
