@@ -1,18 +1,28 @@
-
-string expression = Console.ReadLine();
-
-Stack<int> stack = new Stack<int>();
-
-for (int i = 0; i < expression.Length; i++)
+namespace _04.MatchingBrackets
 {
-    if (expression[i] == '(')
+    internal class Program
     {
-        stack.Push(i);
-    }
-    else if (expression[i] == ')')
-    {
-        int openingBracketIndex = stack.Pop();
+        static void Main(string[] args)
+        {
+            string input = Console.ReadLine();
 
-        Console.WriteLine(expression.Substring(openingBracketIndex, i - openingBracketIndex +1));
+            Stack<int> stack = new Stack<int>();
+
+            for (int i = 0; i < input.Length; i++)
+            {
+                if (input[i] == '(')
+                {
+                    stack.Push(i);
+                }
+                else if (input[i] == ')')
+                {
+                    int start = stack.Pop();
+                    int end = i  + 1;
+
+                    string substring = input.Substring(start, end - start);
+                    Console.WriteLine(substring);
+                }
+            }
+        }
     }
 }
