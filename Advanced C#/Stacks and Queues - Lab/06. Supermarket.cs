@@ -1,28 +1,26 @@
-namespace _6._Supermarket
+namespace _06.Supermarket
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            Queue<string> queue = new Queue<string>();
             string input;
-            Queue<string> customers = new Queue<string>();
-            int count = 0;
 
             while ((input = Console.ReadLine()) != "End")
             {
                 if (input == "Paid")
                 {
-                    while (customers.Count > 0)
+                    while (queue.Count > 0)
                     {
-                        Console.WriteLine(customers.Dequeue());
+                        Console.WriteLine(queue.Dequeue());
                     }
-                    count = 0;
                     continue;
                 }
-                customers.Enqueue(input);
-                count++;
+                queue.Enqueue(input);
             }
-            Console.WriteLine($"{count} people remaining.");
+
+            Console.WriteLine($"{queue.Count} people remaining.");
         }
     }
 }
