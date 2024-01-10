@@ -1,39 +1,39 @@
-
-
-Stack<int> stack = new Stack<int>(Console.ReadLine()
-    .Split()
-    .Select(int.Parse));
-
-string input = Console.ReadLine().ToLower();
-
-while (input != "end")
+namespace _02.StackSum
 {
-    string[] splitted = input.Split(' ');
-    if (splitted.Contains("add"))
+    internal class Program
     {
-        int firstNum = int.Parse(splitted[1]);
-        int secondNum = int.Parse(splitted[2]);
-        stack.Push(firstNum);
-        stack.Push(secondNum);
-    }
-    else if (splitted.Contains("remove"))
-    {
-        int n = int.Parse(splitted[1]);
-        if (stack.Count > n)
+        static void Main(string[] args)
         {
-            for (int i = 0; i < n; i++)
+            Stack<int> numbers = new Stack<int>(Console.ReadLine()
+                .Split()
+                .Select(int.Parse));
+
+            string input = Console.ReadLine().ToLower();
+
+            while (input != "end")
             {
-                stack.Pop();
+                string[] arguments = input.Split();
+                int num1 = int.Parse(arguments[1]);
+                if (arguments[0] == "add")
+                {
+                    int num2 = int.Parse(arguments[2]);
+                    numbers.Push(num1);
+                    numbers.Push(num2);
+                }
+                else if (arguments[0] == "remove")
+                {
+                    if (numbers.Count > num1)
+                    {
+                        for (int i = 0; i < num1; i++)
+                        {
+                            numbers.Pop();
+                        }
+                    }
+                }
+                input = Console.ReadLine().ToLower();
             }
+
+            Console.WriteLine($"Sum: {numbers.Sum()}");
         }
     }
-    input = Console.ReadLine().ToLower();
 }
-
-int totalSum = 0;
-while (stack.Count > 0)
-{
-    totalSum += stack.Pop();
-}
-
-Console.WriteLine($"Sum: {totalSum}");
