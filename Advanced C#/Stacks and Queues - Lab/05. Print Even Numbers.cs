@@ -1,16 +1,24 @@
-
-List<int> ints = new List<int>(Console.ReadLine().Split().Select(int.Parse).ToList());
-
-Queue<int> queue = new Queue<int>();
-
-for (int i = 0; i < ints.Count; i++)
+namespace _05.PrintEvenNumbers
 {
-    int currNum = ints[i];
-    if (currNum % 2 == 0)
+    internal class Program
     {
-        queue.Enqueue(currNum);
+        static void Main(string[] args)
+        {
+            List<int> numbers = new List<int>(Console.ReadLine()
+                .Split()
+                .Select(int.Parse));
+
+            Queue<int> queue = new Queue<int>();
+
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                if (numbers[i] % 2 == 0)
+                {
+                    queue.Enqueue(numbers[i]);
+                }
+            }
+
+            Console.WriteLine(string.Join(", ", queue));
+        }
     }
 }
-
-Console.WriteLine(string.Join(", ", queue));
-
