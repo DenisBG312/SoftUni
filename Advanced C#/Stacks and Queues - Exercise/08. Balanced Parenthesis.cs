@@ -1,40 +1,40 @@
-namespace BalancedSequence
+namespace _08._Balanced_Parenthesis
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            char[] sequence = Console.ReadLine().ToCharArray();
+            char[] input = Console.ReadLine().ToCharArray();
 
-            if (sequence.Length % 2 != 0)
+            if (input.Length % 2 != 0)
             {
                 Console.WriteLine("NO");
                 return;
             }
 
-            Stack<char> characterStack = new Stack<char>();
+            Stack<char> charStack = new Stack<char>();
 
-            foreach (var c in sequence)
+            foreach (char c in input)
             {
                 if ("{[(".Contains(c))
                 {
-                    characterStack.Push(c);
-                }           
-                else if (c == ')' && characterStack.Peek() == '(')
-                {
-                    characterStack.Pop();
+                    charStack.Push(c);
                 }
-                else if (c == ']' && characterStack.Peek() == '[')
+                else if (c == ')' && charStack.Peek() == '(')
                 {
-                    characterStack.Pop();
+                    charStack.Pop();
                 }
-                else if (c == '}' && characterStack.Peek() == '{')
+                else if (c == ']' && charStack.Peek() == '[')
                 {
-                    characterStack.Pop();
+                    charStack.Pop();
+                }
+                else if (c == '}' && charStack.Peek() == '{')
+                {
+                    charStack.Pop();
                 }
             }
 
-            Console.WriteLine(characterStack.Any() ? "NO" : "YES");
+            Console.WriteLine(charStack.Any() ? "NO" : "YES");
         }
     }
 }
