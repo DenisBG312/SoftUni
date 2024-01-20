@@ -26,13 +26,10 @@ namespace _02._Sets_of_Elements
                 secondSet.Add(num);
             }
 
-            foreach (var num in firstSet)
-            {
-                if (secondSet.Contains(num))
-                {
-                    Console.Write(num + " ");
-                }
-            }
+            
+            firstSet.IntersectWith(secondSet);
+
+            Console.WriteLine(string.Join(" ", firstSet));
         }
     }
 }
