@@ -21,7 +21,7 @@ namespace _10._ForceBook
                         forceBook.Add(forceSide, new List<string>());
                     }
 
-                    if (!forceBook[forceSide].Contains(forceUser))
+                    if (!forceBook.Values.Any(list => list.Contains(forceUser)))
                     {
                         forceBook[forceSide].Add(forceUser);
                     }
