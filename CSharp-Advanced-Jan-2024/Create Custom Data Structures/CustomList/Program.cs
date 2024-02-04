@@ -14,15 +14,20 @@ namespace _01.CustomList
             list.Add(6);
             list.Add(7);
             list.Add(8);
-            
+ 
+
             list[0] = 234;
-            
+
+
             Console.WriteLine(list[0]);
+
+            list.AddRange(new int[] {1, 2, 3, 6, 2});
 
             Console.WriteLine(list.RemoveAt(2));
             Console.WriteLine(list.RemoveAt(2));
             Console.WriteLine(list.RemoveAt(2));
-            
+
+
             list.InsertAt(2, -5);
 
             Console.WriteLine(list.Contains(234));
