@@ -1,4 +1,4 @@
-﻿namespace _01.CustomList
+namespace _01.CustomList
 {
     internal class Program
     {
@@ -14,32 +14,24 @@
             list.Add(6);
             list.Add(7);
             list.Add(8);
- 
-
+            
             list[0] = 234;
-
-
+            
             Console.WriteLine(list[0]);
 
-            //list.AddRange(new int[] { 1, 2, 3, 4 });
-
             Console.WriteLine(list.RemoveAt(2));
             Console.WriteLine(list.RemoveAt(2));
             Console.WriteLine(list.RemoveAt(2));
-
-
+            
             list.InsertAt(2, -5);
-            //Console.WriteLine();
-            //
+
             Console.WriteLine(list.Contains(234));
             Console.WriteLine(list.Contains(100));
-            //
-            //list.InsertAt(0, -5);
-            //
-            //list.Swap(0, 1);
-            //Console.WriteLine();
-            //
-            //Console.WriteLine();
+
+            list.InsertAt(0, -5);
+
+            list.Swap(0, 1);
+
             Console.WriteLine(list.Count);
         }
     }
