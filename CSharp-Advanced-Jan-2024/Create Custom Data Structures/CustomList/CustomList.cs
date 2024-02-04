@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -42,6 +42,14 @@ namespace _01.CustomList
             items[Count] = item;
 
             Count++;
+        }
+
+        public void AddRange(int[] items)
+        {
+            foreach (var item in items)
+            {
+                Add(item);
+            }
         }
         public int RemoveAt(int index)
         {
@@ -87,6 +95,16 @@ namespace _01.CustomList
                 }
             }
             return false;
+        }
+
+        public void Swap(int firstIndex, int secondIndex)
+        {
+            ThrowExceptionIfIndexOutOfRange(firstIndex);
+            ThrowExceptionIfIndexOutOfRange(secondIndex);
+
+            int temp = items[firstIndex];
+            items[firstIndex] = items[secondIndex];
+            items[secondIndex] = temp;
         }
         private void ShiftRight(int index)
         {
