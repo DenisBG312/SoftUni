@@ -23,7 +23,7 @@ namespace GenericSwapMethodInteger
 
             foreach (var str in stringList)
             {
-                Console.WriteLine($"{typeof(string)}: {str}");
+                Console.WriteLine($"{typeof(int)}: {str}");
             }
         }
 
