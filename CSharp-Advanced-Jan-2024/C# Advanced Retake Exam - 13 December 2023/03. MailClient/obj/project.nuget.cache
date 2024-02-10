@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rfOmgCkTWuAsUrZb4QwfuDwL0herJGKt5QcVGRwuFKbtgZD8uul26gxScRoXYVvSKQptfhibN/bbeimIfIbF9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\AppData\\Local\\Temp\\Rar$DRa33708.36957\\MailClient\\MailClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
