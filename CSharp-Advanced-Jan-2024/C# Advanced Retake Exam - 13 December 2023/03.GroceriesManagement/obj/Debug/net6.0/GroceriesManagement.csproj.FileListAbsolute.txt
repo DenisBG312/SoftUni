@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\bin\Debug\net6.0\GroceriesManagement.exe
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\bin\Debug\net6.0\GroceriesManagement.deps.json
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\bin\Debug\net6.0\GroceriesManagement.runtimeconfig.json
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\bin\Debug\net6.0\GroceriesManagement.dll
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\bin\Debug\net6.0\GroceriesManagement.pdb
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\obj\Debug\net6.0\GroceriesManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\obj\Debug\net6.0\GroceriesManagement.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\obj\Debug\net6.0\GroceriesManagement.AssemblyInfo.cs
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\obj\Debug\net6.0\GroceriesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\obj\Debug\net6.0\GroceriesManagement.dll
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\obj\Debug\net6.0\refint\GroceriesManagement.dll
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\obj\Debug\net6.0\GroceriesManagement.pdb
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\obj\Debug\net6.0\GroceriesManagement.genruntimeconfig.cache
+C:\Users\Denis\Desktop\AISDAHSJOFJSADFUOSDHFGSDKJLBGK\obj\Debug\net6.0\ref\GroceriesManagement.dll
