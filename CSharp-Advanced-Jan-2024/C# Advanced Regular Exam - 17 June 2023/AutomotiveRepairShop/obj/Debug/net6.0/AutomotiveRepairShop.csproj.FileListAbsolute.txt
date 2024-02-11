@@ -1,0 +1,14 @@
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.exe
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.deps.json
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.runtimeconfig.json
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.dll
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.pdb
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.AssemblyInfoInputs.cache
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.AssemblyInfo.cs
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.csproj.CoreCompileInputs.cache
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.dll
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\obj\Debug\net6.0\refint\AutomotiveRepairShop.dll
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.pdb
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.genruntimeconfig.cache
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa7204.444\AutomotiveRepairShop\obj\Debug\net6.0\ref\AutomotiveRepairShop.dll
