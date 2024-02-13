@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\net6.0\04.Froggy.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\net6.0\04.Froggy.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\net6.0\04.Froggy.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\net6.0\04.Froggy.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\net6.0\04.Froggy.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\net6.0\04.Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\net6.0\04.Froggy.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\net6.0\04.Froggy.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\net6.0\04.Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\net6.0\04.Froggy.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\net6.0\refint\04.Froggy.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\net6.0\04.Froggy.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\net6.0\04.Froggy.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\net6.0\ref\04.Froggy.dll
