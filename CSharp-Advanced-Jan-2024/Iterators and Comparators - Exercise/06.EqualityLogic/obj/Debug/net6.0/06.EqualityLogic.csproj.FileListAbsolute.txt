@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\net6.0\06.EqualityLogic.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\net6.0\06.EqualityLogic.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\net6.0\06.EqualityLogic.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\net6.0\06.EqualityLogic.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\net6.0\06.EqualityLogic.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\net6.0\refint\06.EqualityLogic.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\net6.0\ref\06.EqualityLogic.dll
