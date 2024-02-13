@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9uEVGFxYK81G8Z+2nQ1GwLSs5Nv5uqkRbZxDCjKERbe/AyozWfBN6/1w/i6Ivo5EwP+A55O08d8y7BXjdBn8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\CSharp-Advanced\\Iterators and Comparators - Exercise\\03.Stack\\03.Stack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
