@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\net6.0\refint\05.ComparingObjects.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Iterators and Comparators - Exercise\05.ComparingObjects\obj\Debug\net6.0\ref\05.ComparingObjects.dll
