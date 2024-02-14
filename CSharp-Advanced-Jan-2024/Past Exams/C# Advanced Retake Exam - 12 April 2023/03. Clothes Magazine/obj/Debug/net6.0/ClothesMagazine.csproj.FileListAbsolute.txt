@@ -1,0 +1,14 @@
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\bin\Debug\net6.0\ClothesMagazine.exe
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\bin\Debug\net6.0\ClothesMagazine.deps.json
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\bin\Debug\net6.0\ClothesMagazine.runtimeconfig.json
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\bin\Debug\net6.0\ClothesMagazine.dll
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\bin\Debug\net6.0\ClothesMagazine.pdb
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\obj\Debug\net6.0\ClothesMagazine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\obj\Debug\net6.0\ClothesMagazine.AssemblyInfoInputs.cache
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\obj\Debug\net6.0\ClothesMagazine.AssemblyInfo.cs
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\obj\Debug\net6.0\ClothesMagazine.csproj.CoreCompileInputs.cache
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\obj\Debug\net6.0\ClothesMagazine.dll
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\obj\Debug\net6.0\refint\ClothesMagazine.dll
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\obj\Debug\net6.0\ClothesMagazine.pdb
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\obj\Debug\net6.0\ClothesMagazine.genruntimeconfig.cache
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa22004.15342\obj\Debug\net6.0\ref\ClothesMagazine.dll
