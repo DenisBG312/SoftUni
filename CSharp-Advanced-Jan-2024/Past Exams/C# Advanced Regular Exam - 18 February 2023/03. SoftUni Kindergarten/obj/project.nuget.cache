@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "48L4uH8z7ij0oUydQIwfQ889fzUqBFTQnPLY2O7z8Cq3EGi9hI8ko3k/aPo5KWb1LW2OYm4f+QW7k9N4GrsWKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\3ta\\SoftUniKindergarten.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
