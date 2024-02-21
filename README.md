@@ -8,4 +8,64 @@ The folders in this repository contain my solutions in their homework system, wh
  - *[C# Advanced](https://judge.softuni.org/Contests#!/List/ByCategory/180/CSharp-Advanced)* [✔️]
  - *[C# OOP](https://judge.softuni.org/Contests#!/List/ByCategory/181/CSharp-OOP)* [currently uploading]
 
+<h1 align="center">Certificates</h1>
+<table align="center">
+  <h3 align="center">C# Full Stack Developer</h3>
+  <tr>
+    <th>Certificate</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Programming Basics</td>
+    <td><a href="https://softuni.bg/certificates/details/172485/fe4b4a68">Show certificate</a></td>
+  </tr>
+  <tr>
+    <td>Programming Fundamentals</td>
+    <td><a href="https://softuni.bg/certificates/details/194971/cfd9d6cc">Show certificate</a></td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <h4 align="center">C# Web Developer - Professional Module</h4>
+  <tr>
+    <th>Certificate</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>C# Advanced</td>
+    <td><a href="https://softuni.bg/certificates/details/203494/75af0ad7">Show certificate</a></td>
+  </tr>
+ <tr>
+  <td>C# OOP</td>
+    <td>Soon...</td>
+ </tr>
+  <tr>
+    <td>JS Front-End</td>
+    <td>Soon...</td>
+  </tr>
+  <tr>
+    <td>C# DB</td>
+    <td>Soon...</td>
+  </tr>
+  <tr>
+    <td>C# Web</td>
+    <td>Soon...</td>
+  </tr>
+</table>
+
+<table align="center">
+  <h3 align="center">Diploma</h3>
+  <tr>
+    <th>Certificate</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Diploma</td>
+    <td>Soon...</td>
+  </tr>
+</table>
+
+<br/>
+
    <img src="https://softuni.foundation/wp-content/uploads/2017/08/SoftUni_Foundation_Logo_Oneline-1.png">
