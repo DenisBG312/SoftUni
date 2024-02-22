@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\net6.0\refint\03.HierarchicalInheritance.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\net6.0\ref\03.HierarchicalInheritance.dll
