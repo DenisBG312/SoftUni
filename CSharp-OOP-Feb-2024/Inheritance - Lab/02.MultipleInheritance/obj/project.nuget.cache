@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u40E291CO5Nh3AUjCxkvn2CGbDzVMzwpl44lKtaiXCWmpn3pqBEjFgZ4m/VYzSXDTIT2Ud97uH6PW4W+zmBtww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\CSharp-Advanced\\Inheritance - Lab\\02.MultipleInheritance\\02.MultipleInheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
