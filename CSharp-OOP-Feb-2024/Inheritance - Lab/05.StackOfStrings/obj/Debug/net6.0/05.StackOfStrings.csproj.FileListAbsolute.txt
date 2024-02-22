@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\obj\Debug\net6.0\refint\05.StackOfStrings.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Inheritance - Lab\05.StackOfStrings\obj\Debug\net6.0\ref\05.StackOfStrings.dll
