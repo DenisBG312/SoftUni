@@ -1,4 +1,4 @@
-﻿namespace CustomStack;
+namespace CustomStack;
 
 public class StackOfStrings : Stack<string>
 {
@@ -11,11 +11,12 @@ public class StackOfStrings : Stack<string>
         return false;
     }
 
-    public void AddRange(List<string> list)
+    public Stack<string> AddRange(List<string> list)
     {
         foreach (var element in list)
         { 
             this.Push(element);
         }
+        return this;
     }
 }
