@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTnpAXM2e3Upyin6Xu4i9HjAu/GcncrFKwHzoNm9EZZ413G7fnJK1tRp7ftJScjQ/Z6+REqcqmqKniwz9Jw2Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\AppData\\Local\\Temp\\Rar$DRa1564.37636\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

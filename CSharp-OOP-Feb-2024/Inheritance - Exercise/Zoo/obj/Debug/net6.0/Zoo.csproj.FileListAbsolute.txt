@@ -1,0 +1,14 @@
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\bin\Debug\net6.0\Zoo.exe
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\bin\Debug\net6.0\Zoo.deps.json
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\bin\Debug\net6.0\Zoo.dll
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\bin\Debug\net6.0\Zoo.pdb
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\obj\Debug\net6.0\Zoo.dll
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\obj\Debug\net6.0\Zoo.pdb
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+C:\Users\Denis\AppData\Local\Temp\Rar$DRa1564.37636\Zoo\obj\Debug\net6.0\ref\Zoo.dll
