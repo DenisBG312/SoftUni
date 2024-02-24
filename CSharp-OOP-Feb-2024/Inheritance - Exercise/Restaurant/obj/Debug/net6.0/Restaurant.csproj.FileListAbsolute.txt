@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\bin\Debug\net6.0\Restaurant.exe
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\bin\Debug\net6.0\Restaurant.deps.json
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\bin\Debug\net6.0\Restaurant.runtimeconfig.json
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\bin\Debug\net6.0\Restaurant.dll
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\bin\Debug\net6.0\Restaurant.pdb
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\obj\Debug\net6.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\obj\Debug\net6.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\obj\Debug\net6.0\Restaurant.dll
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\obj\Debug\net6.0\refint\Restaurant.dll
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\obj\Debug\net6.0\Restaurant.pdb
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\obj\Debug\net6.0\Restaurant.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Inheritence - Exericse\Restaurant\obj\Debug\net6.0\ref\Restaurant.dll
