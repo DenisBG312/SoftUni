@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+C:\Users\Denis\Desktop\EncapsExer\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll

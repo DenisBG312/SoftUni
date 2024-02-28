@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k6weUNUboykBm7u3RZQNPPDzDWQ5cQ4zpqLxwmHjyzjdszkOIaPfkYRlQx9BSAJUy07VCJ2sxVqRtEsb9eyO2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\EncapsExer\\AnimalFarm\\AnimalFarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
