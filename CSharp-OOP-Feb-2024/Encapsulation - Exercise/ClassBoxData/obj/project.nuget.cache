@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1jNiTKNTwW0EoJTZxOwp20BlfJqd0FGR1xikGw1boUcM2MwtXVrkLqj8BTqg2D1X2yi0zkCdCA7FrbBT7qPsxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\EncapsExer\\ClassBoxData\\ClassBoxData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
