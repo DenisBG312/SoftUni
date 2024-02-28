@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YkASqESiZgP6iI2tFOmNo83ystzYhLheDx1wlt9dj8QUobvk81OUS72SrV9BWobx8P1h2WFJgEjyFiTIOLP12w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\EncapsExer\\ShoppingSpree\\ShoppingSpree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
