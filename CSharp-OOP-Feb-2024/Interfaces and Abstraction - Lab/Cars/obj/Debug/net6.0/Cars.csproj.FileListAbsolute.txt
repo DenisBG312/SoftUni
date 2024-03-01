@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\bin\Debug\net6.0\Cars.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\bin\Debug\net6.0\Cars.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\bin\Debug\net6.0\Cars.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\obj\Debug\net6.0\Cars.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\obj\Debug\net6.0\Cars.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\01. Shapes\Cars\obj\Debug\net6.0\ref\Cars.dll
