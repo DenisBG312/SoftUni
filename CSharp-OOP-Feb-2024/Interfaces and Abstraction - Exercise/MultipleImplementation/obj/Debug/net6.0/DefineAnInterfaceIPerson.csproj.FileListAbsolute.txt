@@ -1,0 +1,28 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\net6.0\refint\DefineAnInterfaceIPerson.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\net6.0\ref\DefineAnInterfaceIPerson.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\refint\DefineAnInterfaceIPerson.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\ref\DefineAnInterfaceIPerson.dll
