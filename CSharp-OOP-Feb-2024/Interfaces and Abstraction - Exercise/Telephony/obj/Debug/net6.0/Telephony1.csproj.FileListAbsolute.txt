@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\bin\Debug\net6.0\Telephony1.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\bin\Debug\net6.0\Telephony1.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\bin\Debug\net6.0\Telephony1.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\bin\Debug\net6.0\Telephony1.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\bin\Debug\net6.0\Telephony1.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\obj\Debug\net6.0\Telephony1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\obj\Debug\net6.0\Telephony1.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\obj\Debug\net6.0\Telephony1.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\obj\Debug\net6.0\Telephony1.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\obj\Debug\net6.0\Telephony1.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\obj\Debug\net6.0\refint\Telephony1.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\obj\Debug\net6.0\Telephony1.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\obj\Debug\net6.0\Telephony1.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Interfaces and Abstraction - Exercise\Telephony1\obj\Debug\net6.0\ref\Telephony1.dll
