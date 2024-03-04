@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sKE/F7uJMuALXiP3u3HnE1R7HrlzP1kpaYly2F1f3wa5MNApSh31FbfCyKMwhHZytMsf2NCD4N6oJbyFJsZdbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\CSharp-Advanced\\Polymorphism - Lab\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
