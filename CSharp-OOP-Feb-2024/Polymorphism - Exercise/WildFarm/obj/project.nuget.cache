@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GGUAGYwiiZGGNoybMIuQ2h++nsScAamrTxyDVCPVdzn81a+/b6UTZq/DbEB5OXJB33Z+kU0/NZGmPSeWEBV+0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\04.WildFarm\\04.WildFarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
