@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5F+OJ4dJX0kNHsy5QhunciucgI++KsIy8TCBa2WIQg3jUlAim9K+hJSUYwVyFvWE/N4CUTQiiF9+mH7gwbsFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\CSharp-Advanced\\Reflection and Attributes - Lab\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
