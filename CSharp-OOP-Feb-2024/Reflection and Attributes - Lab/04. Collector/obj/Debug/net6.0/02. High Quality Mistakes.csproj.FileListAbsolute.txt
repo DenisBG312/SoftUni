@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\net6.0\02. High Quality Mistakes.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\net6.0\02. High Quality Mistakes.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\net6.0\02. High Quality Mistakes.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\net6.0\02. High Quality Mistakes.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\net6.0\02. High Quality Mistakes.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\net6.0\refint\02. High Quality Mistakes.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\net6.0\ref\02. High Quality Mistakes.dll
