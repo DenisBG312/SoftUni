@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\net6.0\05. Create Attribute.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\net6.0\05. Create Attribute.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\net6.0\05. Create Attribute.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\net6.0\05. Create Attribute.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\net6.0\05. Create Attribute.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\net6.0\refint\05. Create Attribute.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\net6.0\ref\05. Create Attribute.dll
