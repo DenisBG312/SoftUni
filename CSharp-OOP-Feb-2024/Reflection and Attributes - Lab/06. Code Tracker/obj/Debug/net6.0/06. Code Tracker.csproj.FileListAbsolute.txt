@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.exe
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.deps.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.runtimeconfig.json
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\refint\06. Code Tracker.dll
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.pdb
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.genruntimeconfig.cache
+C:\Users\Denis\source\repos\CSharp-Advanced\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\ref\06. Code Tracker.dll
