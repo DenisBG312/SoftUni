@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aiix+g5ZFr5Gq/XcW+/hBtDWlyhu/E8bKGv6fgEFl8doPgPUGSIGR6bW4lsF4Xt6B61sr5u72ZNqYuIQmIh/wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\CSharp-Advanced\\Unit Testing - Exercises\\DatabaseExtended\\DatabaseExtended.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
