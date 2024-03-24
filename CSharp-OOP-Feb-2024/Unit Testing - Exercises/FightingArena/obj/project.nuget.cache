@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LtDlsUAoYTGOeZ4gwW3YlmsI7R7MKcpO5rdOwMqKM7eUAQJXJSnY+4izeqg9dOz7QE7MhTy78VA0RRz71fmnHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\CSharp-Advanced\\Unit Testing - Exercises\\FightingArena\\FightingArena.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
