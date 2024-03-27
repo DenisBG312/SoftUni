@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\bin\Debug\net6.0\Television.exe
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\bin\Debug\net6.0\Television.deps.json
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\bin\Debug\net6.0\Television.runtimeconfig.json
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\bin\Debug\net6.0\Television.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\bin\Debug\net6.0\Television.pdb
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\obj\Debug\net6.0\Television.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\obj\Debug\net6.0\Television.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\obj\Debug\net6.0\Television.AssemblyInfo.cs
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\obj\Debug\net6.0\Television.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\obj\Debug\net6.0\Television.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\obj\Debug\net6.0\refint\Television.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\obj\Debug\net6.0\Television.pdb
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\obj\Debug\net6.0\Television.genruntimeconfig.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\TelevisionTask\Television\obj\Debug\net6.0\ref\Television.dll
