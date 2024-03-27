@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\bin\Debug\net6.0\NauticalCatchChallenge.exe
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\bin\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\obj\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Exam Regular - 09 December 2023\FishStructure\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
