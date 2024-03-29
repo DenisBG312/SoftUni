@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/bXZ1LSkaMXKRa4qUBhqa0eer/swu+vvJGV/mIIiOuGflZC104022LFwo+1pDmlSIwLb1JfZtfozAHO/qJ6Z6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\OOPEXAMS\\C# OOP Retake Exam – 15 August 2023\\Handball\\Handball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

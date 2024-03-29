@@ -1,0 +1,69 @@
+FireBall is successfully added to the TeamRepository.
+DribbleDown is successfully added to the TeamRepository.
+NetNavigators is successfully added to the TeamRepository.
+InGoodHands is successfully added to the TeamRepository.
+InGoodHands is already added to the TeamRepository.
+John Smith is filed for the handball league.
+Al Johnson is filed for the handball league.
+Bob Thompson is filed for the handball league.
+Charlie Davis is filed for the handball league.
+David Wilson is filed for the handball league.
+Emil Brown is filed for the handball league.
+Fred Clark is filed for the handball league.
+Rodrigo Grade is filed for the handball league.
+Henry Lee is filed for the handball league.
+Isaac Mitchell is filed for the handball league.
+Jack Davis is filed for the handball league.
+Kyle Anderson is filed for the handball league.
+Liam Taylor is filed for the handball league.
+Matthew Reed is filed for the handball league.
+Nathan Cooper is filed for the handball league.
+Midfielder is invalid position for the application.
+John Smith is already added to the PlayerRepository as Goalkeeper.
+Samuel Thompson is filed for the handball league.
+Player John Smith signed a contract with FireBall.
+Player Al Johnson signed a contract with FireBall.
+Player Bob Thompson signed a contract with FireBall.
+Player Charlie Davis signed a contract with FireBall.
+Player David Wilson signed a contract with FireBall.
+Player Emil Brown signed a contract with DribbleDown.
+Player Fred Clark signed a contract with DribbleDown.
+Player Rodrigo Grade signed a contract with DribbleDown.
+Player Henry Lee signed a contract with DribbleDown.
+Player Isaac Mitchell signed a contract with DribbleDown.
+Player Jack Davis signed a contract with NetNavigators.
+Player Kyle Anderson signed a contract with NetNavigators.
+Player Liam Taylor signed a contract with NetNavigators.
+Player Matthew Reed signed a contract with NetNavigators.
+Player Nathan Cooper signed a contract with NetNavigators.
+Player with the name Dilan Zee does not exist in the PlayerRepository.
+Player with the name Samuel Thopmson does not exist in the PlayerRepository.
+Player Matthew Reed has already signed with NetNavigators.
+Player Matthew Reed has already signed with NetNavigators.
+The game between FireBall and DribbleDown ends in a draw!
+Team FireBall wins the game over NetNavigators!
+Team DribbleDown wins the game over NetNavigators!
+***FireBall***
+ForwardWing: Charlie Davis
+--Rating: 6.75
+ForwardWing: David Wilson
+--Rating: 6.75
+CenterBack: Al Johnson
+--Rating: 5
+CenterBack: Bob Thompson
+--Rating: 5
+Goalkeeper: John Smith
+--Rating: 4
+***League Standings***
+Team: DribbleDown Points: 4
+--Overall rating: 5.5
+--Players: Emil Brown, Fred Clark, Rodrigo Grade, Henry Lee, Isaac Mitchell
+Team: FireBall Points: 4
+--Overall rating: 5.5
+--Players: John Smith, Al Johnson, Bob Thompson, Charlie Davis, David Wilson
+Team: NetNavigators Points: 0
+--Overall rating: 2.6
+--Players: Jack Davis, Kyle Anderson, Liam Taylor, Matthew Reed, Nathan Cooper
+Team: InGoodHands Points: 0
+--Overall rating: 0
+--Players: none
