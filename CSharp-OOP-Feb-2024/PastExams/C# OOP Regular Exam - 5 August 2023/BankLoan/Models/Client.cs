@@ -53,7 +53,7 @@ namespace BankLoan.Models
         public double Income
         {
             get => income;
-            set
+            private set
             {
                 if (value <= 0)
                 {
