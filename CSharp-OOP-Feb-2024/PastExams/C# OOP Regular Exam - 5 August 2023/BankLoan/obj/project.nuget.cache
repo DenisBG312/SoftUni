@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFoeOUMlwbh1RRvpTfU9+nTtcBXdSBsVlNIHtEErzLQ0Ppf55Wo7HV0jVU8YSyKKDaNxHo2a0iuU8+yI8TxtYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\OOPEXAMS\\C# OOP Regular Exam - 5 August 2023\\Structure\\BankLoan\\BankLoan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

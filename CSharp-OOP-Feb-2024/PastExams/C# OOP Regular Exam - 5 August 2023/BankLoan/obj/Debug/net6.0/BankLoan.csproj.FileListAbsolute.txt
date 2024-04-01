@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\bin\Debug\net6.0\BankLoan.exe
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\bin\Debug\net6.0\BankLoan.deps.json
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\bin\Debug\net6.0\BankLoan.runtimeconfig.json
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\bin\Debug\net6.0\BankLoan.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\bin\Debug\net6.0\BankLoan.pdb
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\obj\Debug\net6.0\BankLoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\obj\Debug\net6.0\BankLoan.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\obj\Debug\net6.0\BankLoan.AssemblyInfo.cs
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\obj\Debug\net6.0\BankLoan.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\obj\Debug\net6.0\BankLoan.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\obj\Debug\net6.0\refint\BankLoan.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\obj\Debug\net6.0\BankLoan.pdb
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\obj\Debug\net6.0\BankLoan.genruntimeconfig.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Regular Exam - 5 August 2023\Structure\BankLoan\obj\Debug\net6.0\ref\BankLoan.dll
