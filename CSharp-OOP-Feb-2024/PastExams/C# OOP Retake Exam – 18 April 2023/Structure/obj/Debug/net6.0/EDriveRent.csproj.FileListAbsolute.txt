@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\bin\Debug\net6.0\EDriveRent.exe
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\bin\Debug\net6.0\EDriveRent.deps.json
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\bin\Debug\net6.0\EDriveRent.runtimeconfig.json
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\bin\Debug\net6.0\EDriveRent.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\bin\Debug\net6.0\EDriveRent.pdb
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\obj\Debug\net6.0\EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\obj\Debug\net6.0\EDriveRent.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\obj\Debug\net6.0\refint\EDriveRent.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\obj\Debug\net6.0\EDriveRent.pdb
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\obj\Debug\net6.0\EDriveRent.genruntimeconfig.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 18 April 2023\Structure\obj\Debug\net6.0\ref\EDriveRent.dll
