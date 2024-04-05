@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\bin\Debug\net6.0\HighwayToPeak.exe
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\bin\Debug\net6.0\HighwayToPeak.deps.json
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\bin\Debug\net6.0\HighwayToPeak.runtimeconfig.json
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\bin\Debug\net6.0\HighwayToPeak.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\bin\Debug\net6.0\HighwayToPeak.pdb
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\obj\Debug\net6.0\HighwayToPeak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\obj\Debug\net6.0\HighwayToPeak.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\obj\Debug\net6.0\HighwayToPeak.AssemblyInfo.cs
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\obj\Debug\net6.0\HighwayToPeak.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\obj\Debug\net6.0\HighwayToPeak.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\obj\Debug\net6.0\refint\HighwayToPeak.dll
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\obj\Debug\net6.0\HighwayToPeak.pdb
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\obj\Debug\net6.0\HighwayToPeak.genruntimeconfig.cache
+C:\Users\Denis\source\repos\OOPEXAMS\C# OOP Retake Exam – 19 December 2023\obj\Debug\net6.0\ref\HighwayToPeak.dll

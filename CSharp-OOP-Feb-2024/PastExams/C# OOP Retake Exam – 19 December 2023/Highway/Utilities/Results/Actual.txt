@@ -1,0 +1,62 @@
+Everest is allowed for international climbing. See details in PeakRepository.
+Kangchenjunga is allowed for international climbing. See details in PeakRepository.
+Lhotse is allowed for international climbing. See details in PeakRepository.
+Makalu is allowed for international climbing. See details in PeakRepository.
+ChoOyu is allowed for international climbing. See details in PeakRepository.
+Dhaulagiri is allowed for international climbing. See details in PeakRepository.
+Manaslu is allowed for international climbing. See details in PeakRepository.
+NangaParbat is allowed for international climbing. See details in PeakRepository.
+Annapurna is allowed for international climbing. See details in PeakRepository.
+ShishaPangma is allowed for international climbing. See details in PeakRepository.
+LiamSmith has arrived at the BaseCamp and will wait for the best conditions.
+EthanLee has arrived at the BaseCamp and will wait for the best conditions.
+MasonKim has arrived at the BaseCamp and will wait for the best conditions.
+JacobMartinez has arrived at the BaseCamp and will wait for the best conditions.
+JacobMartinez is a participant in ClimberRepository and cannot be duplicated.
+LiamSmith successfully conquered Lhotse and returned to BaseCamp.
+EthanLee successfully conquered Makalu and returned to BaseCamp.
+UnlistedPeak is not allowed for international climbing.
+JacobMartinez successfully conquered Dhaulagiri and returned to BaseCamp.
+LiamSmith does not cover the requirements for climbing NangaParbat.
+EthanLee did not return to BaseCamp.
+MasonKim successfully conquered ChoOyu and returned to BaseCamp.
+MasonKim successfully conquered Manaslu and returned to BaseCamp.
+JacobMartinez successfully conquered ShishaPangma and returned to BaseCamp.
+LiamSmith has been recovering for 6 days and is ready to attack the mountain.
+LiamSmith has no need of recovery.
+EthanLee not found at the BaseCamp.
+MasonKim has been recovering for 3 days and is ready to attack the mountain.
+JacobMartinez has been recovering for 7 days and is ready to attack the mountain.
+LiamSmith successfully conquered ChoOyu and returned to BaseCamp.
+LiamSmith successfully conquered Dhaulagiri and returned to BaseCamp.
+LiamSmith successfully conquered Manaslu and returned to BaseCamp.
+LiamSmith successfully conquered ChoOyu and returned to BaseCamp.
+EthanLee not found for gearing and instructions. The attack of Annapurna will be postponed.
+MasonKim successfully conquered Kangchenjunga and returned to BaseCamp.
+JacobMartinez successfully conquered NangaParbat and returned to BaseCamp.
+JacobMartinez successfully conquered Dhaulagiri and returned to BaseCamp.
+BaseCamp residents:
+Name: JacobMartinez, Stamina: 1, Count of Conquered Peaks: 3
+Name: LiamSmith, Stamina: 2, Count of Conquered Peaks: 4
+Name: MasonKim, Stamina: 4, Count of Conquered Peaks: 3
+***Highway-To-Peak***
+NaturalClimber - Name: LiamSmith, Stamina: 2
+Peaks conquered: 4
+Peak: Lhotse -> Elevation: 8516, Difficulty: Hard
+Peak: ChoOyu -> Elevation: 8201, Difficulty: Moderate
+Peak: Dhaulagiri -> Elevation: 8167, Difficulty: Moderate
+Peak: Manaslu -> Elevation: 8156, Difficulty: Moderate
+OxygenClimber - Name: JacobMartinez, Stamina: 1
+Peaks conquered: 3
+Peak: Dhaulagiri -> Elevation: 8167, Difficulty: Moderate
+Peak: NangaParbat -> Elevation: 8126, Difficulty: Extreme
+Peak: ShishaPangma -> Elevation: 8012, Difficulty: Extreme
+NaturalClimber - Name: MasonKim, Stamina: 4
+Peaks conquered: 3
+Peak: Kangchenjunga -> Elevation: 8586, Difficulty: Hard
+Peak: ChoOyu -> Elevation: 8201, Difficulty: Moderate
+Peak: Manaslu -> Elevation: 8156, Difficulty: Moderate
+OxygenClimber - Name: EthanLee, Stamina: 0
+Peaks conquered: 2
+Peak: Everest -> Elevation: 8848, Difficulty: Extreme
+Peak: Makalu -> Elevation: 8463, Difficulty: Hard
