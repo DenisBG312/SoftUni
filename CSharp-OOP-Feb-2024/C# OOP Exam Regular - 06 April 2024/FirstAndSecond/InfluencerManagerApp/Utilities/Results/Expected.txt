@@ -1,0 +1,46 @@
+﻿AlexFas_33 registered successfully to the application.
+Tech#Guru registered successfully to the application.
+TravelVirtu registered successfully to the application.
+MarketPPMaven registered successfully to the application.
+StyleIcon registered successfully to the application.
+ReligionInfluencer has not passed validation.
+TravelVirtu is already registered in InfluencerRepository.
+Nike started a ProductCampaign.
+FoodPanda started a ServiceCampaign.
+Nike campaign cannot be duplicated.
+Sony started a ProductCampaign.
+Uber started a ServiceCampaign.
+HolidayCampaign is not a valid campaign in the application.
+BookIt started a ServiceCampaign.
+InfluencerRepository has no NotEX_infl registered in the application.
+There is no campaign from TitanTech in the application.
+TravelVirtu is not eligible for the Nike campaign.
+AlexFas_33 has been successfully attracted to the Nike campaign.
+TravelVirtu has been successfully attracted to the Uber campaign.
+The budget for Uber is insufficient to engage MarketPPMaven.
+Tech#Guru has been successfully attracted to the Uber campaign.
+MarketPPMaven has been successfully attracted to the BookIt campaign.
+StyleIcon is not eligible for the FoodPanda campaign.
+Uber campaign has been successfully funded with 20000 $
+Trying to fund an invalid campaign.
+Funding amount must be greater than zero.
+Trying to close an invalid campaign.
+Sony campaign has reached its target.
+Nike campaign has reached its target.
+MarketPPMaven has been successfully attracted to the Uber campaign.
+MarketPPMaven is already engaged for the Uber campaign.
+Uber campaign cannot be closed as it has not met its financial targets.
+StyleIcon concluded their contract.
+MarketPPMaven cannot conclude the contract while enrolled in active campaigns.
+NoahRivers has still not signed a contract.
+MarketPPMaven - Followers: 50000, Total Income: 45000
+Active Campaigns:
+--ServiceCampaign - Brand: BookIt, Budget: 7500, Contributors: 1
+--ServiceCampaign - Brand: Uber, Budget: 4000, Contributors: 3
+Tech#Guru - Followers: 30000, Total Income: 13500
+Active Campaigns:
+--ServiceCampaign - Brand: Uber, Budget: 4000, Contributors: 3
+TravelVirtu - Followers: 25000, Total Income: 10000
+Active Campaigns:
+--ServiceCampaign - Brand: Uber, Budget: 4000, Contributors: 3
+AlexFas_33 - Followers: 20000, Total Income: 10000
