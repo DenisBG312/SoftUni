@@ -38,7 +38,7 @@ The folders in this repository contain my solutions in their homework system, wh
   </tr>
  <tr>
   <td>C# OOP</td>
-    <td>Soon...</td>
+    <td><a href="https://softuni.bg/certificates/details/211255/2badf47e">Show certificate</a></td>
  </tr>
   <tr>
     <td>JS Front-End</td>
