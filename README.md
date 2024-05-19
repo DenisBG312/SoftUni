@@ -6,7 +6,8 @@ The folders in this repository contain my solutions in their homework system, wh
  - *[C# Basics](https://judge.softuni.org/Contests#!/List/ByCategory/245/CSharp-Basics)* [✔️]
  - *[C# Fundamentals](https://judge.softuni.org/Contests#!/List/ByCategory/149/CSharp-Fundamentals)* [✔️]
  - *[C# Advanced](https://judge.softuni.org/Contests#!/List/ByCategory/180/CSharp-Advanced)* [✔️]
- - *[C# OOP](https://judge.softuni.org/Contests#!/List/ByCategory/181/CSharp-OOP)* [currently uploading]
+ - *[C# OOP](https://judge.softuni.org/Contests#!/List/ByCategory/181/CSharp-OOP)* [✔️]
+ - *[MS SQL](https://judge.softuni.org/Contests#!/List/ByCategory/62/CSharp-Databases-Basics-Exercises)* [currently uploading]
 
 <h1 align="center">Certificates</h1>
 <table align="center">
