@@ -13,3 +13,6 @@ CREATE TABLE [Persons]
 	[Salary] DECIMAL(8,2) NOT NULL,
 	[PassportID] INT FOREIGN KEY REFERENCES [Passports](PassportId)
 )
+
+ALTER TABLE [Persons]
+ADD CONSTRAINT UQ_PassportID UNIQUE ([PassportID])
