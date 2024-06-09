@@ -1,10 +1,10 @@
-CREATE PROCEDURE usp_GetEmployeesFromTown @townName VARCHAR(100)
+CREATE OR ALTER PROCEDURE usp_GetEmployeesFromTown @townName VARCHAR(100)
 			  AS
 		   BEGIN
 					SELECT FirstName
 					    AS [First Name],
 						   LastName
-						AS [LastName]
+						AS [Last Name]
 					  FROM Employees
 					    AS e
 					  JOIN Addresses
