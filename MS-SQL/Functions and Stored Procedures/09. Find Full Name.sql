@@ -7,6 +7,4 @@ CREATE PROCEDURE usp_GetHoldersFullName
 					  FROM AccountHolders
 		     END
 
-EXEC usp_GetHoldersFullName
-
 
