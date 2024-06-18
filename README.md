@@ -7,7 +7,8 @@ The folders in this repository contain my solutions in their homework system, wh
  - *[C# Fundamentals](https://judge.softuni.org/Contests#!/List/ByCategory/149/CSharp-Fundamentals)* [✔️]
  - *[C# Advanced](https://judge.softuni.org/Contests#!/List/ByCategory/180/CSharp-Advanced)* [✔️]
  - *[C# OOP](https://judge.softuni.org/Contests#!/List/ByCategory/181/CSharp-OOP)* [✔️]
- - *[MS SQL](https://judge.softuni.org/Contests#!/List/ByCategory/62/CSharp-Databases-Basics-Exercises)* [currently uploading]
+ - *[MS SQL](https://judge.softuni.org/Contests#!/List/ByCategory/62/CSharp-Databases-Basics-Exercises)* [✔️]
+ -  *[C# Entity Framework](https://judge.softuni.org/Contests#!/List/ByCategory/68/CSharp-Databases-Advanced-Exercises)* [Currently uploading]
 
 <h1 align="center">Certificates</h1>
 <table align="center">
@@ -41,18 +42,22 @@ The folders in this repository contain my solutions in their homework system, wh
   <td>C# OOP</td>
     <td><a href="https://softuni.bg/certificates/details/211255/2badf47e">Show certificate</a></td>
  </tr>
-  <tr>
-    <td>JS Front-End</td>
-    <td>Soon...</td>
+    <td>C# MSSQL</td>
+    <td><a href="https://softuni.bg/certificates/details/216757/d5aea086">Show certificate</a></td>
   </tr>
-  <tr>
-    <td>C# DB</td>
+  </tr>
+    <td>C# Entity Framework</td>
     <td>Soon...</td>
   </tr>
   <tr>
     <td>C# Web</td>
     <td>Soon...</td>
   </tr>
+   <tr>
+    <td>JS Front-End</td>
+    <td>Soon...</td>
+  </tr>
+  <tr>
 </table>
 
 <table align="center">
