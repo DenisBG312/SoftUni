@@ -1,0 +1,42 @@
+[
+  {
+    "FullName": "Donald Sanders",
+    "PhoneNumber": "+357683444233",
+    "Bookings": [
+      {
+        "TourPackageName": "Horse Riding Tour",
+        "Date": "2024-09-21"
+      }
+    ]
+  },
+  {
+    "FullName": "Henry White",
+    "PhoneNumber": "+357611144251",
+    "Bookings": [
+      {
+        "TourPackageName": "Horse Riding Tour",
+        "Date": "2024-09-28"
+      }
+    ]
+  },
+  {
+    "FullName": "Michael Smith",
+    "PhoneNumber": "+357683411237",
+    "Bookings": [
+      {
+        "TourPackageName": "Horse Riding Tour",
+        "Date": "2024-09-15"
+      }
+    ]
+  },
+  {
+    "FullName": "William Garcia",
+    "PhoneNumber": "+317683444239",
+    "Bookings": [
+      {
+        "TourPackageName": "Horse Riding Tour",
+        "Date": "2024-11-01"
+      }
+    ]
+  }
+]

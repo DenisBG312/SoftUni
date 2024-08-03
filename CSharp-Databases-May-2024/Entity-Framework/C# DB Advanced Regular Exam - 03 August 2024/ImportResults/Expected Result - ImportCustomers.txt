@@ -1,0 +1,32 @@
+Successfully imported customer - Donald Sanders
+Invalid data format!
+Successfully imported customer - Alice Johnson
+Successfully imported customer - John Doe
+Invalid data format!
+Error! Data duplicated.
+Successfully imported customer - Emma Brown
+Successfully imported customer - Michael Smith
+Successfully imported customer - Olivia Davis
+Error! Data duplicated.
+Successfully imported customer - William Garcia
+Successfully imported customer - Ava Martinez
+Error! Data duplicated.
+Successfully imported customer - James Invalid
+Successfully imported customer - Sophia Wilson
+Successfully imported customer - Benjamin Lee
+Successfully imported customer - Isabella Harris
+Successfully imported customer - Lucas Clark
+Error! Data duplicated.
+Successfully imported customer - Ethan Anderson
+Successfully imported customer - Charlotte Taylor
+Successfully imported customer - Daniel Moore
+Successfully imported customer - Amelia Martinez
+Successfully imported customer - Henry White
+Error! Data duplicated.
+Successfully imported customer - Alexander Brown
+Successfully imported customer - Victoria Scott
+Successfully imported customer - Christopher Lee
+Invalid data format!
+Invalid data format!
+Invalid data format!
+Invalid data format!

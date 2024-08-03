@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Guides>
+  <Guide>
+    <FullName>Alex Johnson</FullName>
+    <TourPackages>
+      <TourPackage>
+        <Name>Horse Riding Tour</Name>
+        <Description>Experience the thrill of a guided horse riding tour through picturesque landscapes. Suitable for all skill levels. Enjoy nature and create unforgettable memories. Duration: 3 hours.</Description>
+        <Price>199.99</Price>
+      </TourPackage>
+      <TourPackage>
+        <Name>Historical Sites</Name>
+        <Description>Explore ancient ruins, museums, and landmarks on a guided tour. Learn about the rich history and culture of the area. Ideal for history buffs. Duration: 4 hours.</Description>
+        <Price>159.99</Price>
+      </TourPackage>
+      <TourPackage>
+        <Name>City Tour</Name>
+        <Description>Discover the charm of the city with a guided tour. Visit famous landmarks, bustling markets, and hidden gems. Perfect for all ages. Duration: 3 hours.</Description>
+        <Price>129.99</Price>
+      </TourPackage>
+    </TourPackages>
+  </Guide>
+  <Guide>
+    <FullName>Chris Martin</FullName>
+    <TourPackages>
+      <TourPackage>
+        <Name>Diving Tour</Name>
+        <Description>Dive into the crystal-clear waters and explore vibrant coral reefs and marine life. Suitable for beginners and experienced divers. Equipment provided. Duration: 2 hours.</Description>
+        <Price>299.99</Price>
+      </TourPackage>
+      <TourPackage>
+        <Name>Wildlife Safari</Name>
+        <Description>Embark on an exciting wildlife safari. Spot exotic animals in their natural habitat, guided by experts. Perfect for nature enthusiasts. Duration: 4 hours.</Description>
+        <Price>249.99</Price>
+      </TourPackage>
+    </TourPackages>
+  </Guide>
+</Guides>

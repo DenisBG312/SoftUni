@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Customers>
+	<Customer phoneNumber="+357683444233">
+		<FullName>Donald Sanders</FullName>
+		<Email>donald.sanders@mail.lt</Email>
+	</Customer>
+	<Customer phoneNumber="+35768344423">
+		<FullName>Robert Simons</FullName>
+		<Email>robert.simons@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357183414234">
+		<FullName>Alice Johnson</FullName>
+		<Email>alice.johnson@mail.du</Email>
+	</Customer>
+	<Customer phoneNumber="+357683444035">
+		<FullName>John Doe</FullName>
+		<Email>john.doe@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357683444035">
+		<FullName>Doe</FullName>
+		<Email>john.doe@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357683101035">
+		<FullName>John Doe</FullName>
+		<Email>john.doe.invalid@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357600444236">
+		<FullName>Emma Brown</FullName>
+		<Email>emma.brown@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357683411237">
+		<FullName>Michael Smith</FullName>
+		<Email>michael.smith@mail.eu</Email>
+	</Customer>
+	<Customer phoneNumber="+357683664238">
+		<FullName>Olivia Davis</FullName>
+		<Email>olivia.davis@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357683664238">
+		<FullName>Olivia Invalid</FullName>
+		<Email>olivia.davis.invalid@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+317683444239">
+		<FullName>William Garcia</FullName>
+		<Email>william.garcia@mail.cc</Email>
+	</Customer>
+	<Customer phoneNumber="+257683444240">
+		<FullName>Ava Martinez</FullName>
+		<Email>ava.martinez@mail.rr</Email>
+	</Customer>
+	<Customer phoneNumber="+357600444236">
+		<FullName>James Rodriguez</FullName>
+		<Email>james.rodriguez@mail.ai</Email>
+	</Customer>
+	<Customer phoneNumber="+357101444236">
+		<FullName>James Invalid</FullName>
+		<Email>james.rodriguez@mail.ai</Email>
+	</Customer>
+	<Customer phoneNumber="+357683884242">
+		<FullName>Sophia Wilson</FullName>
+		<Email>sophia.wilson@mail.mm</Email>
+	</Customer>
+	<Customer phoneNumber="+357683904243">
+		<FullName>Benjamin Lee</FullName>
+		<Email>benjamin.lee@mail.nm</Email>
+	</Customer>
+	<Customer phoneNumber="+357683234244">
+		<FullName>Isabella Harris</FullName>
+		<Email>isabella.harris@mail.im</Email>
+	</Customer>
+	<Customer phoneNumber="+357683324245">
+		<FullName>Lucas Clark</FullName>
+		<Email>lucas.clark@mail.om</Email>
+	</Customer>
+	<Customer phoneNumber="+357683444246">
+		<FullName>Ava Martinez</FullName>
+		<Email>mia.thompson@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357682224247">
+		<FullName>Ethan Anderson</FullName>
+		<Email>ethan.anderson@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357688884248">
+		<FullName>Charlotte Taylor</FullName>
+		<Email>charlotte.taylor@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357683994249">
+		<FullName>Daniel Moore</FullName>
+		<Email>daniel.moore@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357680044250">
+		<FullName>Amelia Martinez</FullName>
+		<Email>amelia.martinez@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357611144251">
+		<FullName>Henry White</FullName>
+		<Email>henry.white@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357681144252">
+		<FullName>Grace Thompson</FullName>
+		<Email>charlotte.taylor@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357685644253">
+		<FullName>Alexander Brown</FullName>
+		<Email>alexander.brown@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357688744254">
+		<FullName>Victoria Scott</FullName>
+		<Email>victoria.scott@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357683744255">
+		<FullName>Christopher Lee</FullName>
+		<Email>christopher.lee@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+3576837442552">
+		<FullName>Number Check</FullName>
+		<Email>christopher.lee1@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+123456789112">
+		<FullName>A very long name that will not pass the validations due to length restrictions</FullName>
+		<Email>christopher.lee2@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+357688744999">
+		<FullName>Victoria Longamil</FullName>
+		<Email>Averylongmailbeforeatsignthatshouldbrakethelogicforemaillengthcheckvictoria.scott@mail.dm</Email>
+	</Customer>
+	<Customer phoneNumber="+999999999999">
+		<FullName>Victoria ShortMail</FullName>
+		<Email>t@l.d</Email>
+	</Customer>
+</Customers>
