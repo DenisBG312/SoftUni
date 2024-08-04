@@ -8,7 +8,8 @@ The folders in this repository contain my solutions in their homework system, wh
  - *[C# Advanced](https://judge.softuni.org/Contests#!/List/ByCategory/180/CSharp-Advanced)* [✔️]
  - *[C# OOP](https://judge.softuni.org/Contests#!/List/ByCategory/181/CSharp-OOP)* [✔️]
  - *[MS SQL](https://judge.softuni.org/Contests#!/List/ByCategory/62/CSharp-Databases-Basics-Exercises)* [✔️]
- -  *[C# Entity Framework](https://judge.softuni.org/Contests#!/List/ByCategory/68/CSharp-Databases-Advanced-Exercises)* [Currently uploading]
+ -  *[C# Entity Framework](https://judge.softuni.org/Contests#!/List/ByCategory/68/CSharp-Databases-Advanced-Exercises)* [✔️]
+ -  *[C# Web](https://judge.softuni.org/Contests#!/List/ByCategory/90/CSharp-Web-Development-Basics-Exams)* [Currently uploading]
 
 <h1 align="center">Certificates</h1>
 <table align="center">
