@@ -47,7 +47,7 @@ The folders in this repository contain my solutions in their homework system, wh
   </tr>
   </tr>
     <td>C# Entity Framework</td>
-    <td>Soon...</td>
+    <td><a href="https://softuni.bg/certificates/details/221129/0816f7ab">Show certificate</a></td>
   </tr>
   <tr>
     <td>C# Web</td>
