@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CinemaApp.Web.ViewModels/1.0.0": {
+        "dependencies": {
+          "CinemaApp.Common": "1.0.0"
+        },
+        "runtime": {
+          "CinemaApp.Web.ViewModels.dll": {}
+        }
+      },
+      "CinemaApp.Common/1.0.0": {
+        "runtime": {
+          "CinemaApp.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CinemaApp.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CinemaApp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

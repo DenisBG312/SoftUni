@@ -1,0 +1,15 @@
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Web.ViewModels.deps.json
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Web.ViewModels.dll
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Web.ViewModels.pdb
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.AssemblyInfo.cs
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.dll
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\refint\CinemaApp.Web.ViewModels.dll
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.pdb
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\ref\CinemaApp.Web.ViewModels.dll
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Common.dll
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Common.pdb
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaAp.B0FE653C.Up2Date
