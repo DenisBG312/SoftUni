@@ -51,7 +51,11 @@ The folders in this repository contain my solutions in their homework system, wh
     <td><a href="https://softuni.bg/certificates/details/221129/0816f7ab">Show certificate</a></td>
   </tr>
   <tr>
-    <td>C# Web</td>
+    <td>C# ASP.NET Fundamentals</td>
+    <td><a href="https://softuni.bg/certificates/details/228392/16cc4bb0">Show certificate</a></td>
+  </tr>
+ <tr>
+    <td>C# ASP.NET Advances</td>
     <td>Soon...</td>
   </tr>
    <tr>
