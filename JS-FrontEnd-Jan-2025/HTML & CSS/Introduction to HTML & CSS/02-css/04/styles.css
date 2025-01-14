@@ -1,0 +1,11 @@
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li a.bolded{
+    font-weight: bold;
+}
+
+nav ul li a.italic{
+    font-style: italic;
+}

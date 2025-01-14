@@ -1,0 +1,33 @@
+.p-highlighted p{
+    color: blue;
+}
+
+#special-content{
+    background-color: gold;
+    padding: 0;
+}
+
+a.fancy-link[href]{
+    color: blue;
+    text-decoration: underline;
+}
+
+a.fancy-link-external[href]{
+    color: orange;
+    text-decoration: none;
+    border-bottom: 3px double;
+}
+
+.multi-class p{
+    color: blue;
+}
+
+.important{
+    font-weight: bold;
+    color: cyan;
+}
+
+.important.italic{
+    color: red;
+    font-style: italic;
+}
