@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font: 14px/1.5 Verdana, sans-serif;
+    font-weight: bold;
+}
+
+body{
+    border: 2px solid green;
+    padding: 2em;
+}
+
+.site{
+    border: 2px solid blue;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+.site > header,
+.site > main,
+.site > footer{
+    border: 2px solid black;
+    padding: 1em;
+    text-align: center;
+}
+
+.site > header,
+.site > main{
+    margin-bottom: 2em;
+}

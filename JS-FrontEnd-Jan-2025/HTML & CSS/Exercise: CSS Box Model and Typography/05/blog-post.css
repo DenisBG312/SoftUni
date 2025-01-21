@@ -1,0 +1,28 @@
+.blog{
+    border: 2px solid #ccc;
+    margin: 1em 15em;
+    border-radius: 0.4em;
+}
+
+h1{
+    margin: 0.6em;
+}
+
+h4{
+    font-size: 18px;
+    padding: 0 1em 0.6em 1em;
+}
+
+p{
+    padding: 1em 1em;
+}
+
+h3{
+    padding: 2em 0.9em 0 0.9em;
+}
+
+
+span{
+    font-weight: bold;
+    font-style: italic;
+}

@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #f9f9f9;
+}
+
+.inline-elements > .facebook-circle,
+.inline-elements > .twitter-circle,
+.inline-elements > .github-circle,
+.inline-elements > .random-circle{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #ccc;
+    text-align: center;
+    position: relative;
+}
+
+.inline-elements > .facebook-circle i,
+.inline-elements > .twitter-circle i,
+.inline-elements > .github-circle i,
+.inline-elements > .random-circle i{
+    font-size: 26px;
+    position: absolute;
+    left: 29%;
+    top: 24%;
+}

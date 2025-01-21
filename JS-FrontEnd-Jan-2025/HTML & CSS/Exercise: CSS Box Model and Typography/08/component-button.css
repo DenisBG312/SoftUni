@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    font-size: 20px;
+    margin: 2em 1em;
+}
+
+a {
+    margin-left: 1em;
+    text-decoration: none;
+    color: #000;
+    border: 1px solid #ccc;
+    padding: 0.8em;
+    border-radius: 5px;
+}
+
+.gray-link{
+    background-color: gray;
+}
+
+.gray-link.edit{
+    padding-left: 2em;
+    padding-right: 1em;
+}
+
+.orange-link{
+    background-color: orange;
+}
+
+.lightyellow-link{
+    background-color: lightyellow;
+}
+
+.class-btns button{
+    margin-left: 1em;
+    text-decoration: none;
+    color: #000;
+    padding: 1em 1.5em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.gray-btn{
+    background-color: gray;
+}
+
+.orange-btn{
+    background-color: orange;
+}
+
+.lightyellow-btn{
+    background-color: lightyellow;
+}
+
+.white-btn{
+    background-color: white;
+}
+
+.gray-btn.edit{
+    padding-left: 3em;
+    padding-right: 1em;
+}
+
+

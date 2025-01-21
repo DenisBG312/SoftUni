@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+summary, p{
+    font-size: 20px;
+}
+
+.accordion-body p{
+    margin-bottom: 1em;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #f9f9f9;
+}
+
+.accordion-body{
+    border: 2px solid #ccc;
+    margin: 2em auto;
+    max-width: 600px;
+    height: 600px;
+    border-radius: 3px;
+}
+
+.accordion-body > details{
+    border-bottom: 2px solid #ddd;
+}
+
+.accordion-body > summary,
+.accordion-body > details{
+    padding-left: 1em;
+}
+
+.accordion-body > details:first-of-type{
+    padding: 1em 1em;
+}
+
+.accordion-body > details:nth-of-type(2){
+    padding: 0.8em 1em;
+}
+
+.accordion-body > details:nth-of-type(3){
+    padding: 0.8em 1em;
+}

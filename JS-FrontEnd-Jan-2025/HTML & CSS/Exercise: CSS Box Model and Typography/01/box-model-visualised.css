@@ -1,0 +1,50 @@
+div {
+    border: 1px dashed #333;
+    padding: 2em;
+    position: relative;
+}
+
+div::before{
+    display: block;
+    position: absolute;
+    top: 0.5em;
+    left: 0.7em;
+}
+
+.box-model {
+    width: 600px;
+    margin: 3em auto;
+}
+
+.content {
+    background-color: lightblue;
+    text-align: center;
+}
+
+.padding {
+    background-color: lightgreen;
+}
+
+.padding::before {
+    content: 'padding';
+}
+
+.border {
+    background-color: blanchedalmond;
+}
+
+.border::before {
+    content: 'border';
+}
+
+.margin {
+    background-color: lightsalmon;
+}
+
+.margin::before{
+    content: 'margin';
+}
+
+.content::before{
+    display: none;
+}
