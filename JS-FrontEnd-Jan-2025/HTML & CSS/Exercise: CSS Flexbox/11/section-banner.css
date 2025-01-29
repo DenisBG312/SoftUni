@@ -1,0 +1,77 @@
+.container {
+    max-width: 900px;
+    padding: 2em;
+    display: flex;
+    gap: 2em;
+}
+
+body > * {
+    background: white;
+    padding: 0.5em;
+    border-radius: 5px;
+    margin: 3em auto;
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    font-size: 1.8em;
+}
+
+h3, p {
+    color: rgb(117, 117, 117);
+}
+
+main {
+    display: flex;
+    flex: 0 1 70%   ;
+    flex-direction: column;
+    justify-content: center;
+}
+
+aside {
+    flex: 0 1 30%;
+    display: flex;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 1em; 
+}
+
+.img {
+    width: 2em;
+    aspect-ratio: 1/1;
+    border: 2px solid #eee;
+    background: #eee;
+    border-radius: 0.5em;
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.3);
+}
+
+aside .img {
+    flex-grow: 1;
+}
+
+button {
+    margin-top: 1em;
+    padding: 0.7em 2em;
+    border-radius: 0.3em;
+    border: none;
+    cursor: pointer;
+}
+
+button a {
+    text-decoration: none;
+}
+
+button.main-btn {
+    background-color: purple;
+}
+
+button.main-btn a {
+    color: white;
+}
+
+button.seconder-btn a {
+    color: gray;
+}

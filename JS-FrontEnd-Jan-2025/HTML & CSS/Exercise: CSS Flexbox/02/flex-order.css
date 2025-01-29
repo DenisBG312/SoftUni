@@ -1,0 +1,33 @@
+.container {
+    margin: 4em;
+    background-color: #fff;
+    padding: 2em;
+    box-shadow: 0 0 1em rgb(0, 0, 0, 0.2);
+}
+
+p {
+    border: 1px solid #888;
+    border-radius: 0.3em;
+    margin: 0.5em;
+    padding: 2em;
+}
+
+.flex-items {
+    display: flex;
+}
+
+.flex-items main{
+    flex-grow: 3;
+}
+
+.flex-items aside{
+    flex-grow: 1;
+}
+
+.flex-items.reverse aside {
+    order: 1;
+}
+
+.flex-items.reverse main{
+    order: 2;
+}

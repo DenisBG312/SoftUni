@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    min-height: 100dvh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2em;
+    padding-bottom: 0.5rem;
+    line-height: 1;
+}
+
+ul {
+    padding: 0 0 1.5em 1.5em;
+}
+
+p {
+    padding-bottom: 1.5em;
+}
+
+article {
+    background-color: #fff;
+    border-radius: 0.3em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    padding: 2em;
+    max-width: 60ch;
+}

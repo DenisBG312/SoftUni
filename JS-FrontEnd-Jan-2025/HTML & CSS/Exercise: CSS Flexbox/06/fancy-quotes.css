@@ -1,0 +1,64 @@
+.container {
+    max-width: 1280px;
+    margin: 2em auto;
+    display: flex;
+    gap: 2em;
+}
+
+main {
+    flex: 0 1 70%;
+}
+
+aside {
+    flex: 0 1 30%;
+    display: flex;
+}
+
+article {
+    border: 1px solid #ccc;
+    border-radius: 0.3em;
+    align-items: center;
+    gap: 2em;
+    background-color: white;
+    padding: 2em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    display: flex;
+}
+
+article + article {
+    margin-top: 2em;
+}
+
+section.content {
+    flex-shrink: 1;
+}
+
+section.avatar {
+    flex-shrink: 0;
+    width: 9em;
+    aspect-ratio: 1/1;
+    background-color: green;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    border: 4px solid #fff;
+}
+
+section.content::before {
+    content: '"';
+    font-size: 6em;
+    line-height: 0.5;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+aside article section.avatar {
+    width: 6em;
+}
+
+aside article {
+    flex-direction: column;
+    align-items: flex-start;
+}

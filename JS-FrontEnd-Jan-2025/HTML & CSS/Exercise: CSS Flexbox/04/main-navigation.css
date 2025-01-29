@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(220, 217, 217);
+    margin: 4em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    border: 1px solid #888;
+    border-radius: 0.3em;
+}
+
+nav {
+    padding: 1em 2em;
+}
+
+nav ul {
+    display: flex;
+    gap: 2em;
+}
+
+nav ul li {
+    list-style-type: none;
+    color: orange;
+    font-weight: bold;
+    font-size: 1.2em;
+    border: 1px solid #888;
+    padding: 0.7em;
+    border-radius: 0.3em;
+    background-color: #fff;
+    cursor: pointer;
+}
