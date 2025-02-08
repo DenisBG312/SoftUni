@@ -1,0 +1,32 @@
+@import url(reset.css);
+@import url(typography.css);
+
+body {
+	padding: 2em;
+}
+
+h2 {
+	margin-top: 2em;
+}
+
+.code-container {
+	display: block;
+	padding: 2em 2em 0.5em 2em;
+	border-radius: 0.3em;
+	margin: 2em 0;
+	border: 1px solid #ccc;
+	overflow: auto;
+	background-color: #d3d3d3;
+}
+
+input {
+	display: inline-block;
+	padding: 0.5em 0.8em;
+	border: 2px solid #ccc;
+	outline: none;
+	border-radius: 0.3em;
+}
+
+input:focus {
+	border-color: #090;
+}

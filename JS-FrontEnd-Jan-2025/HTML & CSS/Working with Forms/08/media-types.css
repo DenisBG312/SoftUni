@@ -1,0 +1,27 @@
+fieldset {
+	padding: 2em;
+	max-width: 50ch;
+	border: 2px solid #ccc;
+}
+
+fieldset > legend {
+	padding: 0 1em;
+	font-weight: bold;
+}
+
+.field input {
+	display: block;
+	width: 100%;
+}
+
+.field {
+	padding-bottom: 1.5em;
+}
+
+button {
+	width: 100%;
+	padding: 0.5em;
+	border: 2px solid #ccc;
+	border-radius: 0.3em;
+	cursor: pointer;
+}
