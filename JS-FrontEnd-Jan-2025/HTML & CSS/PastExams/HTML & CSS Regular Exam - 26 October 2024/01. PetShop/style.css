@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #eee;
+}
+
+html {
+	font: 14px/1.5 Poppins, sans-serif;
+}
+
+.container {
+	background: #fff;
+	margin: 2em;
+	padding: 1.5em 6em;
+	box-shadow: 0 0 4em 0 rgb(0, 0, 0, 0.5);
+	display: flex;
+	gap: 3em;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+aside {
+	flex: 1 0 40%;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+}
+
+
+.text-container {
+	background: #f3f3f3;
+	padding: 4em;
+	position: relative;
+}
+
+.text-container::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0.3em;
+	height: 100%;
+	background-color: #7ab730;
+}
+
+.text-container h1 {
+	font-size: 3em;
+	text-transform: uppercase;
+}
+
+.text-container p {
+	color: #7ab730;
+	margin-bottom: 1em;
+}
+
+h3.label {
+	text-align: center;
+	margin-block: 1em;
+	color: #777;
+}
+
+article {
+	background: #f3f3f3;
+	padding: 1.5em;
+	flex-grow: 1;
+}
+
+article section.header {
+	display: flex;
+	justify-content: center;
+	text-transform: uppercase;
+	gap: 2em;
+}
+
+article section.header h3 {
+	flex: 1;
+	text-align: center;
+	padding: 0.5em;
+}
+
+article section.header h3.green-text {
+	color: #7ab730;
+}
+
+article section.header h3:nth-child(1) {
+	color: #fff;
+	background: #7ab730;
+	display: block;
+}
+
+article p {
+	margin-top: 2em;
+	color: #777;
+}
