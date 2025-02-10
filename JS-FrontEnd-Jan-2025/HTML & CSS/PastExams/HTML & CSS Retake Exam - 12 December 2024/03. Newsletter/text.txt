@@ -1,0 +1,86 @@
+NewsLetter by SoftUni
+
+
+
+Welcome
+News
+About Us
+Contacts
+
+
+
+Welcome to NewsLetter!
+We offer a catalog of news.
+
+
+
+Ok let's go
+More info
+
+
+
+Put something here
+Maybe here as well I think
+Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.
+
+
+
+An interesting title
+This is also an interesting subtitle
+Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.
+
+
+
+Oh, and finally ...
+Here's another intriguing subtitle
+Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.
+
+
+
+Interesting stuff
+More
+
+
+
+So what's this all about?
+This is NewsLetter, a simple HTML and CSS site designed as a task for students to recreate it from an image during their retake exam.
+Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper bibendum ipsum, et tristique augue fringilla eu. Vivamus id risus vel dolor auctor euismod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus mattis lectus sit amet phasellus quam turpis.
+Continue Reading
+
+
+
+Random Stuff
+Etiam feugiat condimentum
+Aliquam imperdiet suscipit odio
+Sed porttitor cras in erat nec
+Felis varius pellentesque potenti
+Nullam scelerisque blandit leo
+
+
+
+Random Stuff
+Etiam feugiat condimentum
+Aliquam imperdiet suscipit odio
+Sed porttitor cras in erat nec
+Felis varius pellentesque potenti
+Nullam scelerisque blandit leo
+
+
+
+Random Stuff
+Etiam feugiat condimentum
+Aliquam imperdiet suscipit odio
+Sed porttitor cras in erat nec
+Felis varius pellentesque potenti
+Nullam scelerisque blandit leo
+
+
+
+Contact Us
+Fictional Address
+City, Postcode
+(359) 000 00 00 00
+
+
+
+© NewsLetter

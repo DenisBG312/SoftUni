@@ -1,0 +1,160 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css);
+@import url(https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap);
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 18px;
+  line-height: 2em;
+  overflow-x: hidden;
+  background: #b9d9e5;
+}
+
+nav {
+  background-color: #38cccc;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  margin-bottom: 1rem;
+  border-radius: 0.6rem;
+}
+
+nav ul li a:hover {
+  color: #f96699;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.logo {
+  font-size: 1.5rem;
+}
+
+.checkbtn {
+  font-size: 30px;
+  color: white;
+  cursor: pointer;
+  display: none;
+}
+
+#check {
+  display: none;
+}
+
+h1,
+h2,
+p,
+i,
+.text-white {
+  color: white;
+}
+
+.container-fluid {
+  width: 100%;
+  max-width: 970px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 60px 15px;
+}
+
+.site-header {
+  height: 470px;
+}
+
+.gallery {
+  margin: -10px;
+}
+
+.gallery-item {
+  border-radius: 12px;
+  margin: 10px;
+  overflow: hidden;
+  display: inline-block;
+  max-width: 217px;
+}
+
+.gallery-item a {
+  display: block;
+  line-height: 0;
+}
+
+.gallery-item img {
+  width: 220px;
+  height: 220px;
+}
+
+.about-header {
+  text-align: center;
+  width: 300px;
+  display: inline-block;
+  position: relative;
+  bottom: 52px;
+}
+
+.about-text {
+  width: 420px;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.site-header > i,
+h1 {
+  text-align: center;
+  position: relative;
+  bottom: -175px;
+}
+
+.site-header > i {
+  left: 442px;
+}
+
+.p-50 {
+  padding: 50px;
+}
+.mb-0 {
+  margin-bottom: 0;
+}
+.mb-30 {
+  margin-bottom: 30px;
+}
+.mb-40 {
+  margin-bottom: 40px;
+}
+.mb-50 {
+  margin-bottom: 50px;
+}
+.mb-80 {
+  margin-bottom: 80px;
+}
+.bgcolor-1 {
+  background-color: #f96699;
+}
+.bgcolor-2 {
+  background-color: #38cccc;
+}
+.bgcolor-3 {
+  background-color: #99cccc;
+}
+.border-rounded {
+  border-radius: 15px;
+}
