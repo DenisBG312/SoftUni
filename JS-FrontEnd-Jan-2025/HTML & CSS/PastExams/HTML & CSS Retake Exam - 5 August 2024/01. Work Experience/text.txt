@@ -1,0 +1,35 @@
+Jane Doe
+
+Designer
+
+London, UK
+
+ex@mail.com
+
+1224435534
+
+Adobe Photoshop
+90%
+
+Photography
+80%
+
+Illustrator
+75%
+
+Media
+50%
+
+
+Work Experience
+Front End Developer / w3schools.com
+Jan 2015
+Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.
+
+Web Developer / something.com
+Mar 2012 - Dec 2014
+Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.
+
+Graphic Designer / designsomething.com
+Jun 2010 - Mar 2012
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.

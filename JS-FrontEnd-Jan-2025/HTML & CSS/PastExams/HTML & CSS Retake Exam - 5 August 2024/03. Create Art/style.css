@@ -1,0 +1,295 @@
+@import url(https://fonts.googleapis.com/css2?family=Playwrite+PE:wght@100..400&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font: 14px/1.5 'Playwrite PE';
+}
+
+input {
+	font: inherit;
+	color: #fff;
+}
+
+button,
+a {
+	font: 14px/1.5 'Roboto';
+}
+
+header {
+	margin-top: 2em;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+header nav ul {
+	display: flex;
+	gap: 1.5em;
+}
+
+header nav ul li {
+	display: block;
+}
+
+header nav ul li a {
+	font-size: 1.4em;
+	color: #314584;
+	text-decoration: none;
+	font-weight: 500;
+}
+
+header nav ul li a.active {
+	color: #ff3e44;
+}
+
+header button {
+	font-size: 1.2em;
+	margin-top: 4em;
+	padding: 1em 4em;
+	color: #314584;
+	font-weight: bold;
+	border: 3px #ff3e44 solid;
+	border-radius: 0.7em;
+	cursor: pointer;
+}
+
+main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 5em 10em;
+	text-align: left;
+}
+
+main .content {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+main .information {
+	flex: 1;
+}
+
+main h1 {
+	font-size: 4.5em;
+	color: #314584;
+	margin-bottom: 0.3em;
+	font-weight: bold;
+}
+
+main p {
+	color: #6d6d75;
+	font-size: 1.2em;
+	line-height: 1.5;
+}
+
+main .buttons {
+	margin-top: 1.5em;
+}
+
+.btn-red {
+	background-color: #ff3e44;
+	color: white;
+	padding: 1em 3em;
+	border: none;
+	font-weight: bold;
+	border-radius: 5em;
+	font-size: 1.2em;
+	cursor: pointer;
+}
+
+.btn-gray {
+	background-color: #fff;
+	box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.3);
+	color: #314584;
+	padding: 1em 3em;
+	border: none;
+	font-weight: bold;
+	border-radius: 5em;
+	font-size: 1.2em;
+	cursor: pointer;
+	margin-left: 1em;
+}
+
+main .img-container {
+	flex: 1;
+	text-align: right;
+}
+
+main .img-container img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 1em;
+}
+
+section.design {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	gap: 2em;
+	box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+	margin: 0 5em 1em 5em;
+}
+
+section.design .content h1 {
+	font-size: 2.1em;
+	color: #314584;
+}
+
+section.design .content p {
+	font-size: 1.2em;
+	color: #3854a1;
+	margin-bottom: 2em;
+}
+
+section.design .img-container img {
+	width: 100%;
+	height: auto;
+}
+
+section.design .img-container {
+	height: 20%;
+	width: 20%;
+}
+
+section.development {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	gap: 2em;
+	box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+	margin: 0 5em;
+}
+
+section.development .content h1 {
+	font-size: 2.1em;
+	color: #314584;
+}
+
+section.development .content p {
+	font-size: 1.2em;
+	color: #3854a1;
+	margin-bottom: 2em;
+}
+
+section.development .img-container img {
+	width: 100%;
+	height: auto;
+}
+
+section.development .img-container {
+	height: 20%;
+	width: 20%;
+}
+
+section.img-banner img {
+	width: 100%;
+	height: auto;
+}
+
+section.img-banner {
+	width: 25%;
+	height: 25%;
+	margin: 4em auto;
+}
+
+section.company-info {
+	text-align: center;
+}
+
+section.company-info h1 {
+	font-size: 3em;
+	color: #314584;
+}
+
+section.company-info h2 {
+	color: #ff3946;
+	margin-block: 1em;
+}
+
+section.company-info .info-area {
+	max-width: 60ch;
+	margin: 1em auto;
+}
+
+section.company-info .info-area p {
+	color: #3854a1;
+	line-height: 1.8;
+	font-size: 1.1em;
+}
+
+section.contact-form h2 {
+	margin-top: 2.5em;
+	color: #ff3946;
+}
+
+section.contact-form h1 {
+	font-size: 2.5em;
+	color: #314584;
+	margin-top: 0.3em;
+}
+
+section.contact-form h2,
+section.contact-form h1 {
+	text-align: center;
+}
+
+section.contact-form form {
+	text-align: center;
+	margin: 2em 3em;
+}
+
+section.contact-form form p input {
+	min-width: 100%;
+	margin-bottom: 1em;
+	background-color: #314584;
+	padding: 1em;
+	border: none;
+	border-radius: 1.5em;
+}
+
+section.contact-form form p input::placeholder {
+	color: #fff;
+}
+
+section.contact-form form p input.textarea {
+	padding-bottom: 7em;
+}
+
+footer {
+	background: #314584;
+	margin-bottom: 1em;
+}
+
+footer ul {
+	padding-top: 2em;
+	display: flex;
+	justify-content: center;
+	gap: 2.5em;
+}
+
+footer ul li {
+	display: block;
+}
+
+footer ul li a {
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+}
+
+footer p {
+	text-align: center;
+	padding-block: 3em;
+	color: #fff;
+	font-weight: 100;
+}
