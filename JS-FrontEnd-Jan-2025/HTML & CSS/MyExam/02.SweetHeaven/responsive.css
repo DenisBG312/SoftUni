@@ -1,0 +1,92 @@
+@media (max-width: 600px) {
+	
+	ul.nav-menu {
+		display: none;
+	}
+	
+	.nav-burger-menu {
+		display: block;
+		font-size: 1.5em;
+		color: #fff;
+	}
+	
+	nav.nav {
+		flex-direction: row;
+	}
+	
+	.nav-logo {
+		order: 2;
+	}
+	
+	.nav-user-btns {
+		display: block;
+		width: 100%;
+		order: 3;
+	}
+	
+	.nav-user-btns li {
+		width: 100%;
+	}
+	
+	.nav-user-btns li button {
+		width: 100%;
+	}
+	
+	.content img {
+		display: none;
+	}
+	
+	.content-info-welcome button {
+		width: 100%;
+	}
+	
+	.content-info {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin: 0 auto;
+		padding: 20px 0;
+		gap: 20px;
+	  }
+	  
+	  .content-info-welcome {
+		width: 70%;
+		text-align: center;
+	  }
+	  
+	  .content-info-welcome h2 {
+		font-size: 60px;
+	  }
+	  
+	  .content-info-img {
+		width: 40%;
+		height: auto;
+		border-radius: 50%;
+	  }
+	  
+	  .content-services {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin: 20px auto;
+	  }
+	  
+	  .content-services div {
+		width: 90%;
+		text-align: center;
+		padding: 20px;
+		border-radius: 4em;
+	  }
+	  
+	  .gallery img {
+		display: block;
+		width: 100%;
+		height: auto;
+		background: none;
+		border: none;
+	  }
+	  
+	  .gallery {
+		flex-direction: column;
+	  }
+}

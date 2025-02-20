@@ -1,0 +1,231 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+IN:wght@100..400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css);
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  width: 80%;
+  margin: 0 auto;
+  font-family: "Inter", serif;
+}
+
+nav {
+  width: 100%;
+  background: rgb(66, 144, 216);
+  background: linear-gradient(
+    90deg,
+    rgba(66, 144, 216, 0.7847514005602241) 7%,
+    rgba(70, 192, 185, 1) 48%,
+    rgba(75, 243, 144, 0.5326505602240896) 96%
+  );
+  border: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.nav-logo a {
+  font-family: Playwrite IN, serif;
+  color: white;
+  padding-left: 80px;
+  font-size: 20px;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 50px;
+}
+
+.nav-burger-menu {
+  display: none;
+}
+
+.nav-menu > li > a {
+  color: white;
+  font-size: 20px;
+}
+
+.nav-user-btns {
+  display: flex;
+  width: 16%;
+  justify-content: center;
+  gap: 5%;
+}
+
+.nav-user-btns > li:nth-child(1) > button {
+  background-color: rgba(8, 100, 112, 0.308);
+  border: none;
+  color: white;
+  padding: 0.4em 1.5em;
+  border-radius: 5px;
+}
+
+.nav-user-btns > li:nth-child(2) > button {
+  background-color: rgba(10, 45, 202, 0.418);
+  border: none;
+  color: white;
+  padding: 0.4em 1.5em;
+  border-radius: 5px;
+}
+
+.content-info {
+  display: flex;
+  margin: 0 auto;
+  padding: 30px 80px;
+  gap: 50px;
+  justify-content: center;
+  background: rgba(123, 221, 216, 0.281);
+}
+
+.content-info-welcome {
+  width: 40%;
+}
+
+.content-info-welcome h2 {
+  font-size: 90px;
+  margin: 10px 0;
+  font-family: Playwrite IN, serif;
+  color: rgba(8, 100, 112, 0.603);
+}
+
+.content-info-welcome p {
+  font-size: 16px;
+  font-family: Playwrite IN, serif;
+  color: rgba(8, 100, 112, 0.575);
+  margin: 10px 0;
+}
+
+.content-info-welcome button {
+  font-size: 16px;
+  font-weight: 700;
+  color: rgba(8, 100, 112, 0.575);
+  border: 2px solid rgba(8, 100, 112, 0.575);
+  border-radius: 30px;
+  width: 60%;
+  padding: 20px 0;
+  background: none;
+  cursor: pointer;
+}
+
+.content-info-welcome button:hover {
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+  border: 2px solid rgba(8, 100, 112, 0.575);
+  border-radius: 30px;
+  width: 60%;
+  padding: 20px 0;
+  background: rgba(8, 100, 112, 0.575);
+  cursor: pointer;
+}
+
+.content-info-img {
+  width: 25%;
+  height: 25%;
+  border-radius: 100%;
+}
+
+.content-services {
+  display: flex;
+  margin: 30px auto;
+  justify-content: space-between;
+}
+
+.content-services div {
+  width: 20%;
+  border-radius: 80px;
+  padding: 35px 45px;
+  border: 2px solid black;
+}
+
+.content-services div h2 {
+  text-align: center;
+  color: rgb(99, 96, 96);
+}
+
+.content-services div p {
+  text-align: justify;
+  color: rgb(99, 96, 96);
+}
+
+.content-services .violet {
+  border: 2px solid rgba(131, 5, 190, 0.178);
+  background: rgba(131, 5, 190, 0.178);
+}
+
+.content-services .blue {
+  border: 2px solid rgba(4, 36, 216, 0.178);
+  background: rgba(4, 36, 216, 0.178);
+}
+
+.content-services .light-blue {
+  border: 2px solid rgba(4, 138, 216, 0.178);
+  background: rgba(4, 138, 216, 0.178);
+}
+
+.content-services .green {
+  border: 2px solid rgba(4, 216, 117, 0.178);
+  background: rgba(4, 216, 117, 0.178);
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  background: rgba(96, 175, 171, 0.493);
+  padding: 30px 0;
+}
+
+.gallery img {
+  width: 31%;
+  height: 31%;
+  background: rgba(255, 255, 255, 0.308);
+  border-radius: 20px;
+}
+
+footer {
+  width: 100%;
+  padding: 50px 0;
+  background: rgb(66, 144, 216);
+  background: linear-gradient(
+    90deg,
+    rgba(66, 144, 216, 0.7847514005602241) 7%,
+    rgba(70, 192, 185, 1) 48%,
+    rgba(75, 243, 144, 0.5326505602240896) 96%
+  );
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer > p {
+    text-decoration: none;
+    color: white;
+}
+
+footer > p > a {
+    text-decoration: none;
+    color: white;
+    font-family: Playwrite IN, serif;
+}
