@@ -10,7 +10,7 @@ The folders in this repository contain my solutions in their homework system, wh
  - *[MS SQL](https://judge.softuni.org/Contests#!/List/ByCategory/62/CSharp-Databases-Basics-Exercises)* [✔️]
  -  *[C# Entity Framework](https://judge.softuni.org/Contests#!/List/ByCategory/68/CSharp-Databases-Advanced-Exercises)* [✔️]
  -  *C# ASP.NET Fundamentals* [✔️]
- -  *HTML / CSS [✔️
+ -  *HTML / CSS* [✔️]
 <h1 align="center">Certificates</h1>
 <table align="center">
   <h3 align="center">C# Full Stack Developer</h3>
