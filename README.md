@@ -11,6 +11,7 @@ The folders in this repository contain my solutions in their homework system, wh
  -  *[C# Entity Framework](https://judge.softuni.org/Contests#!/List/ByCategory/68/CSharp-Databases-Advanced-Exercises)* [✔️]
  -  *C# ASP.NET Fundamentals* [✔️]
  -  *HTML / CSS* [✔️]
+ -  *JavaScript Front-End* [✔️]
 <h1 align="center">Certificates</h1>
 <table align="center">
   <h3 align="center">C# Full Stack Developer</h3>
@@ -64,7 +65,11 @@ The folders in this repository contain my solutions in their homework system, wh
   </tr>
    <tr>
     <td>JS Front-End</td>
-    <td>Soon...</td>
+    <td><a href="https://softuni.bg/certificates/details/242227/79328f0c">Show certificate</td>
+  </tr>
+   <tr>
+    <td>DevOps</td>
+    <td>Soon</td>
   </tr>
   <tr>
 </table>
